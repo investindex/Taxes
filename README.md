@@ -57,3 +57,7 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 &nbsp;
 
 &nbsp;
+
+[Click here for the next section — Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
