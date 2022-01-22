@@ -10,7 +10,7 @@ A central concept is the distinction between short- and long-term capital gains.
 
 As you might assume, you'll be taxed according to your _net_ gains. Ideally you could minimize short-term gains, because of their higher tax rate. But your short-term gains and losses balance out and, separately, your long-term gains and losses balance out. Only if you realize a net gain in one category and a net loss in the other do they offset one another. A net long-term gain of $5,000 and a net short-term loss of $1,000 would leave you with a tax bill for $4,000 in long-term gains. Any final net loss once the two categories have settled up is the same: it reduces your taxable income, regardless of whether the losses were short-term or long-term.
 
-Deduction from your taxable income in a given year has a limit of $3,000 (unless you establish trader tax status, which is for very frequent traders). Any net losses that exceed the limit can be deferred to future years. But if losses are carried over, then the distinction between short-term and long-term net losses begins to [matter](https://www.irs.gov/publications/p544). For instance, if you realized a $5,000 net loss in Year 1 composed entirely of long-term losses, you would deduct $3,000 from your income in Year 1. In Year 2, you would have the opportunity to offset $2,000 of capital gains, but the long-term losses must preferentially cancel long-term gains. So net short-term and net long-term losses (or a combination of the two) are meaningfully different outcomes if total losses exceed $3,000.
+Deduction from your taxable income in a given year has a limit of $3,000 (unless you establish trader tax status, which is for very frequent traders). Any net losses that exceed the limit can be deferred to future years. But if losses are carried over, then the distinction between short-term and long-term net losses begins to [matter](https://www.irs.gov/publications/p544). For instance, if you realized a $5,000 net loss in Year 1 composed entirely of long-term losses, you would deduct $3,000 from your income in Year 1. In Year 2, you would have the opportunity to offset $2,000 of capital gains, but the long-term losses would preferentially cancel long-term gains. So net short-term and net long-term losses (or a combination of the two) are meaningfully different outcomes if total losses exceed $3,000.
 
 State tax policies on capital gains vary; check those for your own state. Most commonly, some states tax all capital gains as ordinary income and some states do not tax capital gains. There are other policies: some states tax short-term and long-term gains at different rates; some states have a distinct rate or rates for all capital gains or have a unique deduction for capital gains.
 
@@ -27,6 +27,10 @@ Those with six-figure total incomes should be aware of the [net investment incom
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
 You should be aware of rules on wash sales. See the [section below](https://github.com/investindex/Taxes#wash-sale-rules) for details.
+<!--
+The following sections explain the rules on [wash sales](https://github.com/investindex/Taxes#wash-sale-rules), tax loss harvesting, and estimated payments you may be required to make to the IRS.
+-->
+
 
 &nbsp;
 
@@ -34,7 +38,7 @@ You should be aware of rules on wash sales. See the [section below](https://gith
 
 &nbsp;
 
-### Wash sale rules
+## Wash sale rules
 
 Absent [wash sale](https://www.investopedia.com/terms/w/washsale.asp) rules, someone could artificially declare a loss for tax purposes by selling a poorly performing stock near the year’s end and buying it again immediately. Under US tax law, the realized loss would count as a "wash sale" and would be deferred for tax purposes. Of course, this position — whether the investor decides to close it in the given year or in a later year — will affect their taxes at some point, although waiting to close could result in an eventual profit. But wash sale rules prevent investors from exercising total control over the year in which capital losses qualify as tax deductions.
 
@@ -57,6 +61,34 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 -The same rules apply to short selling and then buying to cover. Instead of thinking only of _buying_ and _selling_, the general language of _opening_ and _closing_ a position shows how it applies to short selling. If you sold short on February 1 and then bought to cover on March 1 at a higher price, your loss would be deferred for tax purposes if a (short) sale on the same security (or a substantially identical security) occurred within 30 days before or after March 1.
 
 -This is another regulation which can be bypassed if the IRS recognizes trader tax status.
+
+
+<!--
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Tax loss harvesting
+
+Sold $5,000 of [VXUS](https://investor.vanguard.com/etf/profile/VXUS). Sell [VTI](https://investor.vanguard.com/etf/profile/VTI) at a loss, buy [SCHK](https://www.schwabassetmanagement.com/products/schx). We know they will have highly similar returns, because the large companies in SCHK (and other large cap funds) represent most of the weight in VTI. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
+
+-->
+
+
+<!--
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Quarterly estimated tax payments
+
+Hopefully you've noticed that when you receive a paycheck, some of your money is missing. Since the second world war, the federal government has not waited until tax day to take your money — they want it _now_. Your capital gains are not entirely exempt from this policy. If you wait until you file your taxes to pay tax on your realized capital gains, under certain circumstances the IRS will charge you interest for paying that tax late. They expect you to make estimated payments throughout the year.
+
+-->
 
 &nbsp;
 
