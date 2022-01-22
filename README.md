@@ -1,6 +1,6 @@
 # Taxes
 
-Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. This section applies only to trades in taxable accounts. It will describe taxes as they concern stock trading, and when needed it will expand with the additional knowledge required to trade stock funds and bond funds.
+Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here to avoid unwitting mistakes. This section applies only to trades in taxable accounts. It will describe taxes as they concern stock trading, and when needed it will expand with the additional knowledge required to trade stock funds and bond funds.
 
 &nbsp;
 
@@ -26,9 +26,9 @@ Those with six-figure total incomes should be aware of the [net investment incom
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-You should be aware of rules on wash sales. See the [section below](https://github.com/investindex/Taxes#wash-sale-rules) for details.
+The following sections explain the rules on wash sales and tax loss harvesting.
 <!--
-The following sections explain the rules on [wash sales](https://github.com/investindex/Taxes#wash-sale-rules), tax loss harvesting, and estimated payments you may be required to make to the IRS.
+The following sections explain the rules on wash sales, tax loss harvesting, and estimated payments you may be required to make to the IRS.
 -->
 
 
@@ -52,18 +52,16 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 -A wash sale can be triggered inadvertently by dividend reinvestment. If you sell some but not all shares of a dividend-paying stock, and a dividend is reinvested within 30 days before or after the sale, the sale will be designated as a wash sale.
 
+-You can’t avoid a wash sale designation by selling stock at a loss in a taxable account, then repurchasing it in a tax-advantaged account. The same applies to a repurchase by your spouse. If you repurchase in a tax-advantaged account, the loss is disallowed and cannot offset any gains. This is easy to do accidentally if you aren't keeping the rules in mind.
+
 -When the loss from a wash sale is transferred to the cost basis of the repurchased security, the first holding period is added to the holding period of the newly purchased security. This potentially qualifies the combination as a long-term capital gain or loss when it would not have otherwise.
 
 -Wash sale rules can’t be sidestepped by selling a stock and then purchasing an option on the same stock, for example. Repurchase of a “substantially identical” security, like a contract, invokes the same wash sale rules.
-
--You can’t avoid a wash sale designation by selling stock at a loss in a taxable account, then repurchasing it in a tax-advantaged account. The same applies to a repurchase by your spouse.
 
 -The same rules apply to short selling and then buying to cover. Instead of thinking only of _buying_ and _selling_, the general language of _opening_ and _closing_ a position shows how it applies to short selling. If you sold short on February 1 and then bought to cover on March 1 at a higher price, your loss would be deferred for tax purposes if a (short) sale on the same security (or a substantially identical security) occurred within 30 days before or after March 1.
 
 -This is another regulation which can be bypassed if the IRS recognizes trader tax status.
 
-
-<!--
 &nbsp;
 
 &nbsp;
@@ -72,12 +70,18 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 ## Tax loss harvesting
 
-Sold $5,000 of [VXUS](https://investor.vanguard.com/etf/profile/VXUS). Sell [VTI](https://investor.vanguard.com/etf/profile/VTI) at a loss, buy [SCHX](https://www.schwabassetmanagement.com/products/schx). We know they will have highly similar returns, because the large companies in SCHX represent most of VTI's weighted allocation, even though SCHX holds a fraction of VTI's 4,100 stocks. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
+[Tax loss harvesting](https://www.investopedia.com/articles/financial-advisors/121914/pros-and-cons-annual-taxloss-harvesting.asp) refers to the conscious use of realized losses to offset realized gains. We'll walk through an example, and also discuss a major caveat that many people don't consider.
 
--->
+Let's imagine that most of your stock portfolio is allocated to [VTI](https://investor.vanguard.com/etf/profile/VTI) and [VXUS](https://investor.vanguard.com/etf/profile/VXUS), Vanguard's total US and total international stock ETFs. Earlier this year, you sold shares of VXUS and moved the cash into bond funds to rebalance your portfolio. It's unrealistic that rebalancing the stock/bond ratio and rebalancing within the stock portfolio required selling only VXUS, but we're trying to keep this example simple. You had held these shares for a long time, so the gains you realized were long-term capital gains and they amounted to $5,000. (Note that this doesn't mean you sold $5,000 of VXUS. It means the shares you sold had gained $5,000 of value.)
+
+You're trying to minimize your taxes at the end of the year, and ideally you'd like to do so in a way that doesn't substantively change your portfolio. Let's say you buy VTI whenever you get a paycheck, so you have shares of VTI you've purchased within the last year. VTI has been doing poorly and your recently purchased shares have lost value. You're able to sell shares using the LIFO disposal method (last in, first out) and realize $3,000 in short-term losses. We'll pretend you didn't receive any dividends, and that your only realized gains and losses are $5,000 in long-term gains from VXUS and $3,000 in short-term losses from VTI.
+
+However, we don't want this to change our portfolio. We also don't want to trigger a wash sale by immediately repurchasing VTI. So as soon as we sell VTI at a loss, we buy an equivalent amount of [SCHX](https://www.schwabassetmanagement.com/products/schx), a large cap ETF. We know they will have [highly similar](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VTI&allocation1_1=100&symbol2=SCHX&allocation2_2=100) returns, because the large companies in SCHX represent most of VTI's weighted allocation, even though SCHX holds a fraction of VTI's 4,100 stocks. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
+
+This is a clean example of tax loss harvesting, in which we offset $5,000 in realized gains with $3,000 in realized losses and pay taxes on only $2,000 of long-term gains. We would naturally want to prioritize the reduction of short-term gains, if we had any.
 
 
-<!--
+
 &nbsp;
 
 &nbsp;
@@ -87,7 +91,7 @@ Sold $5,000 of [VXUS](https://investor.vanguard.com/etf/profile/VXUS). Sell [VTI
 ## Quarterly estimated tax payments
 
 Hopefully you've noticed that when you receive a paycheck, some of your money is missing. Since the second world war, the federal government has not waited until tax day to take your money — they want it _now_. Your capital gains are not entirely exempt from this policy. If you wait until you file your taxes to pay tax on your realized capital gains, under certain circumstances the IRS will charge you interest for paying that tax late. They expect you to make estimated payments throughout the year.
-
+<!--
 -->
 
 &nbsp;
