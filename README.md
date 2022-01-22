@@ -26,13 +26,10 @@ Those with six-figure total incomes should be aware of the [net investment incom
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-The following sections explain the rules on wash sales and tax loss harvesting.
+The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules) and the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting).
 <!--
-The following sections explain the rules on wash sales, tax loss harvesting, and estimated payments you may be required to make to the IRS.
+The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [quarterly estimated payments](https://github.com/investindex/Taxes#quarterly-estimated-tax-payments) you may be required to make to the IRS.
 -->
-
-
-&nbsp;
 
 &nbsp;
 
@@ -66,32 +63,27 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 &nbsp;
 
-&nbsp;
-
 ## Tax loss harvesting
 
 [Tax loss harvesting](https://www.investopedia.com/articles/financial-advisors/121914/pros-and-cons-annual-taxloss-harvesting.asp) refers to the conscious use of realized losses to offset realized gains. We'll walk through an example, and also discuss a major caveat that many people don't consider.
 
-Let's imagine that most of your stock portfolio is allocated to [VTI](https://investor.vanguard.com/etf/profile/VTI) and [VXUS](https://investor.vanguard.com/etf/profile/VXUS), Vanguard's total US and total international stock ETFs. Earlier this year, you sold shares of VXUS and moved the cash into bond funds to rebalance your portfolio. It's unrealistic that rebalancing the stock/bond ratio and rebalancing within the stock portfolio required selling only VXUS, but we're trying to keep this example simple. You had held these shares for a long time, so the gains you realized were long-term capital gains and they amounted to $5,000. (Note that this doesn't mean you sold $5,000 of VXUS. It means the shares you sold had gained $5,000 of value.)
+Let's imagine that most of your stock portfolio is allocated to [VTI](https://investor.vanguard.com/etf/profile/VTI) and [VXUS](https://investor.vanguard.com/etf/profile/VXUS), Vanguard's total US and total international stock ETFs. Earlier this year, you sold shares of VXUS and moved the cash into bond funds to rebalance your portfolio. It's unrealistic that rebalancing the stock/bond ratio and rebalancing within the stock portfolio required selling only VXUS, but we're trying to keep this example simple. You had held these shares for a long time, so the gains you realized were long-term capital gains and they amounted to $5,000. (Note that this doesn't mean you sold $5,000 of VXUS. It means the shares you sold had appreciated by $5,000.)
 
 You're trying to minimize your taxes at the end of the year, and ideally you'd like to do so in a way that doesn't substantively change your portfolio. Let's say you buy VTI whenever you get a paycheck, so you have shares of VTI you've purchased within the last year. VTI has been doing poorly and your recently purchased shares have lost value. You're able to sell shares using the LIFO disposal method (last in, first out) and realize $3,000 in short-term losses. We'll pretend you didn't receive any dividends, and that your only realized gains and losses are $5,000 in long-term gains from VXUS and $3,000 in short-term losses from VTI.
 
 However, we don't want this to change our portfolio. We also don't want to trigger a wash sale by immediately repurchasing VTI. So as soon as we sell VTI at a loss, we buy an equivalent amount of [SCHX](https://www.schwabassetmanagement.com/products/schx), a large cap ETF. We know they will have [highly similar](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VTI&allocation1_1=100&symbol2=SCHX&allocation2_2=100) returns, because the large companies in SCHX represent most of VTI's weighted allocation, even though SCHX holds a fraction of VTI's 4,100 stocks. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
 
-This is a clean example of tax loss harvesting, in which we offset $5,000 in realized gains with $3,000 in realized losses and pay taxes on only $2,000 of long-term gains. We would naturally want to prioritize the reduction of short-term gains, if we had any.
+This is a clean example of tax loss harvesting, in which we offset $5,000 in realized gains with $3,000 in realized losses and pay taxes on only $2,000 of long-term gains. We would naturally want to prioritize the reduction of short-term gains, [if we had any](https://www.youtube.com/watch?v=omguEZ7jy5E&ab_channel=ArcaneTechs). But while this harvesting of losses may seem obviously good, there's a potential drawback. Let's imagine that two years in the future, we've held the shares of SCHX and need to sell them. They've appreciated by $10,000, and there are no losses we can realize to counterbalance these gains. Consider the counterfactual: if we had kept the shares of VTI we sold, and sold those now, the tax bill would be smaller this year. Instead of paying taxes on $10,000 of gains, we would have had to initially recover from $3,000 of unrealized losses, and we would be paying taxes on $7,000 of gains.
 
-
-
-&nbsp;
-
+This is crucial to understand about tax loss harvesting: when you harvest a loss, you increase the [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) of the new investment that replaces it. So tax loss harvesting does not simply make taxable gains disappear; it merely rearranges gains and losses. If your income were significantly higher in the year when you sold SCHX, your taxes may have increased more in that year due to selling VTI than you saved in taxes two years prior. This concern is more relevant for short-term gains than long-term gains, because changes in your income are much more likely to affect your marginal tax bracket for ordinary income than for long-term capital gains.
+<!--
 &nbsp;
 
 &nbsp;
 
 ## Quarterly estimated tax payments
 
-Hopefully you've noticed that when you receive a paycheck, some of your money is missing. Since the second world war, the federal government has not waited until tax day to take your money — they want it _now_. Your capital gains are not entirely exempt from this policy. If you wait until you file your taxes to pay tax on your realized capital gains, under certain circumstances the IRS will charge you interest for paying that tax late. They expect you to make estimated payments throughout the year.
-<!--
+Hopefully you've noticed that when you receive a paycheck, some of your money is missing. Since the second world war, the federal government has not waited until tax day to take your money — they want it _now_. Your capital gains are not entirely exempt from this policy. If you wait until you file your taxes to pay tax on your realized capital gains, under certain circumstances the IRS will charge you interest for paying that tax late. They may expect you to make estimated payments throughout the year.
 -->
 
 &nbsp;
