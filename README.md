@@ -72,7 +72,7 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 ## Tax loss harvesting
 
-Sold $5,000 of [VXUS](https://investor.vanguard.com/etf/profile/VXUS). Sell [VTI](https://investor.vanguard.com/etf/profile/VTI) at a loss, buy [SCHK](https://www.schwabassetmanagement.com/products/schx). We know they will have highly similar returns, because the large companies in SCHK (and other large cap funds) represent most of the weight in VTI. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
+Sold $5,000 of [VXUS](https://investor.vanguard.com/etf/profile/VXUS). Sell [VTI](https://investor.vanguard.com/etf/profile/VTI) at a loss, buy [SCHX](https://www.schwabassetmanagement.com/products/schx). We know they will have highly similar returns, because the large companies in SCHX represent most of VTI's weighted allocation, even though SCHX holds a fraction of VTI's 4,100 stocks. Yet the IRS does not consider them “substantially identical” securities, because they track different indices.
 
 -->
 
