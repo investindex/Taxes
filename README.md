@@ -2,6 +2,8 @@
 
 Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. This section applies only to trades in taxable accounts. It will describe taxes as they concern stock trading, and when needed it will expand with the additional knowledge required to trade stock funds and bond funds.
 
+## The essentials
+
 A central concept is the distinction between short- and long-term capital gains. A [long-term gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp) results from a [position](https://www.investopedia.com/terms/p/position.asp) that was closed more than a year after it was opened, and such gains are taxed at lower rates to encourage investment rather than rapid trading. A short-term gain — arising from a position with a [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) of one year or less — is taxed as ordinary income.
 
 In this context, a [lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp) refers to a group of shares purchased in a single transaction. When selling shares of a stock or fund, the [FIFO (first in, first out)](https://www.investopedia.com/terms/f/fifo.asp) method is the default. This is because if you purchased shares of the same security on different days, you will automatically sell the lots purchased earliest and, if possible, make use of any long-term capital gains tax rates. You can select a [different method](https://www.investopedia.com/articles/05/taxlots.asp) of selecting lots to sell if it benefits you.
@@ -22,7 +24,7 @@ Those with six-figure total incomes should be aware of the [net investment incom
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-If you ever trade the same security more than once, you should be aware of rules on wash sales. See the section below for details.
+You should be aware of rules on wash sales. See the [section below](https://github.com/investindex/Taxes#wash-sale-rules) for details.
 
 &nbsp;
 
