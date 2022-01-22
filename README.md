@@ -2,6 +2,8 @@
 
 Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. This section applies only to trades in taxable accounts. It will describe taxes as they concern stock trading, and when needed it will expand with the additional knowledge required to trade stock funds and bond funds.
 
+&nbsp;
+
 ## The essentials
 
 A central concept is the distinction between short- and long-term capital gains. A [long-term gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp) results from a [position](https://www.investopedia.com/terms/p/position.asp) that was closed more than a year after it was opened, and such gains are taxed at lower rates to encourage investment rather than rapid trading. A short-term gain — arising from a position with a [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) of one year or less — is taxed as ordinary income.
