@@ -65,7 +65,7 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 [Tax loss harvesting](https://www.investopedia.com/articles/financial-advisors/121914/pros-and-cons-annual-taxloss-harvesting.asp) refers to the conscious use of realized losses to offset realized gains for tax purposes. We'll walk through an example, and also discuss a major caveat that many people don't consider.
 
-[This video](https://www.youtube.com/watch?v=DBK_s5hsJzY&ab_channel=CharlesSchwab) is a brief intro to tax loss harvesting and [this podcast]((https://www.youtube.com/watch?v=Dl6whcnrl_w&t=1205s)) is a great discussion.
+[This video](https://www.youtube.com/watch?v=DBK_s5hsJzY&ab_channel=CharlesSchwab) is a brief intro to tax loss harvesting and [this podcast](https://www.youtube.com/watch?v=Dl6whcnrl_w&t=1205s) is a great discussion.
 
 Let's imagine that most of your stock portfolio is allocated to [VTI](https://investor.vanguard.com/etf/profile/VTI) and [VXUS](https://investor.vanguard.com/etf/profile/VXUS), Vanguard's total US and total international stock ETFs. Earlier this year, you sold shares of VXUS and moved the cash into bond funds to rebalance your portfolio. It's unrealistic that rebalancing the stock/bond ratio and rebalancing within the stock portfolio required selling only VXUS, but we're trying to keep this example simple. You had held these shares for a long time, so the gains you realized were long-term capital gains and they amounted to $5,000. (Note that this doesn't mean you sold $5,000 of VXUS. It means the shares you sold had appreciated by $5,000.)
 
