@@ -28,7 +28,7 @@ Those with six-figure total incomes should be aware of the [net investment incom
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#quarterly-estimated-tax-payments) you may be required to make to the IRS.
+The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
 
 &nbsp;
 
