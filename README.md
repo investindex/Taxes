@@ -26,10 +26,7 @@ Those with six-figure total incomes should be aware of the [net investment incom
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules) and the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting).
-<!--
-The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [quarterly estimated payments](https://github.com/investindex/Taxes#quarterly-estimated-tax-payments) you may be required to make to the IRS.
--->
+The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#quarterly-estimated-tax-payments) you may be required to make to the IRS.
 
 &nbsp;
 
@@ -78,15 +75,18 @@ This is a clean example of tax loss harvesting, in which we offset $5,000 in rea
 This is crucial to understand about tax loss harvesting: when you harvest a loss, the new investment that replaces it has a higher [cost basis](https://www.investopedia.com/terms/c/costbasis.asp). So tax loss harvesting does not make taxable gains disappear; it merely defers realization of gains. If your income were significantly higher in the year when you sold SCHX, your taxes may have increased more in that year than you saved in taxes two years prior by selling VTI. This concern is more relevant for short-term gains than long-term gains, because changes in your income are much more likely to affect your marginal tax bracket for ordinary income than for long-term capital gains.
 
 So be thoughtful if you decide to harvest losses. Is your income likely to increase in the near future? If so, reducing your taxes this year by realizing losses may lead to an even bigger increase in your future taxes. If you're taking a break from work and you anticipate an income drop next year, then minimizing taxes this year could make sense. In addition, keep in mind that while total market index funds are easy to replace with another security, more specialized products are not. There are many substitutes for VTI that could be used to avoid wash sales, but not for [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html). Other small cap value funds are not the same.
-<!--
-&nbsp;
 
 &nbsp;
 
-## Quarterly estimated tax payments
+&nbsp;
+
+## Estimated tax payments
 
 Hopefully you've noticed that when you receive a paycheck, some of your money is missing. Since the second world war, the federal government has not waited until tax day to take your money — they want it _now_. Your capital gains are not entirely exempt from this policy. If you wait until you file your taxes to pay tax on your realized capital gains, under certain circumstances the IRS will charge you interest for paying that tax late. They may expect you to make estimated payments throughout the year.
--->
+
+Under what circumstances do you need to pay estimated tax? Thankfully, taxpayers can often safely ignore this provision. You do not need to make estimated payments if (a) you expect your federal withholding to be at least 90% of the total federal tax you owe; (b) you expect your federal withholding to be at least 100% of the tax you paid the prior year; or (c) the underpayment you anticipate will be less than $1,000. If any one of these statements is true, you do not need to make estimated payments. (The figure in condition (b) is increased to 110% at a six-figure income threshold, which is currently $150K for those filing as single.)
+
+If you find that you do need to pay estimated tax, how do you do it? The simplest method is to increase federal withholding through your employer. The main alternative is a series of four, equal payments throughout the year. These are due by the 15th days of April, June, September, and January (in the following year). If you noticed that these dates are not spaced equally, that’s correct. When these dates fall on a Saturday, Sunday, or legal holiday, then the due date is postponed to the first day that is not that kind of day. There are [multiple ways](https://www.irs.gov/payments) to pay the IRS, the easiest of which is an online transfer directly from your checking account.
 
 &nbsp;
 
