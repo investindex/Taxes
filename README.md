@@ -2,7 +2,7 @@
 
 Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here. This section applies only to trades in taxable accounts. Unless otherwise mentioned, it will describe taxes as they concern the trading of stocks and stock funds; bond funds are differentiated when needed.
 
-Keep in mind that the information below is general and tax law is very particular. If you derive most of your income from farming or fishing, for example, somewhat different rules apply to you. Understanding your own situation is important.
+Keep in mind that the information below is general and tax law is very particular. For example, somewhat different rules apply to you if you derive most of your income from farming or fishing. Understanding your own situation is important.
 
 &nbsp;
 
