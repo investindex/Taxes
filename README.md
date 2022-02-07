@@ -31,7 +31,7 @@ Let's say in our example above with $50,000 of taxable income, we also realized 
 [We pay](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets) 10% on the first $10,275 of taxable income ([$1,027.50](https://www.wolframalpha.com/input?i=.1*10275)), then 12% up to $41,775 ([$3,780](https://www.wolframalpha.com/input?i=.12*%2841775-10275%29)), then 22% up to $52,000 ([$2,249.50](https://www.wolframalpha.com/input?i=.22*%2852000-41775%29)), for a total of $7,057. Our net long-term capital gain of $3K is on top of the imaginary stack of $52K of ordinary income, so it ranges from $52K to $55K. That entire range is higher than $41,675 but less than $459,750, so [we pay](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) 15% on all of our long-term gains ([$450](https://www.wolframalpha.com/input?i=.15*3000)), for a total of $7,507. The net investment income tax does not apply because our income is far too low.
 
 <p align="center">
-<img src="https://github.com/investindex/Taxes/blob/main/TaxRateExample.png" width="491" height="540"/>
+<img src="https://github.com/investindex/Taxes/blob/main/Tax%20Rate%20Example.png" width="491" height="540"/>
 </p>
 
 #### Further essentials
