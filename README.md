@@ -15,7 +15,7 @@ In 2022, the long-term capital gains tax [rates](https://www.nerdwallet.com/arti
 -->
 
 <p align="center">
-<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20Tax%20Rates.png" width="559" height="480"/>
+<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20Tax%20Rates.png" width="582" height="500"/>
 </p>
 
 As you might assume, you'll be taxed according to your _net_ gains. Ideally you could minimize short-term gains, because of their higher tax rate. But your short-term gains and losses balance out and, separately, your long-term gains and losses balance out. Only if you realize a net gain in one category and a net loss in the other do they offset one another. A net long-term gain of $5,000 and a net short-term loss of $1,000 would leave you with a tax bill for $4,000 in long-term gains. Any final net loss once the two categories have settled up is the same: it reduces your taxable income, regardless of whether the losses were short-term or long-term.
