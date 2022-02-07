@@ -26,7 +26,9 @@ As you might assume, you'll be taxed according to your _net_ investment gains. I
 
 Deduction from your taxable income in a given year has a limit of $3,000 (unless you establish trader tax status, which is for very frequent traders). Any net losses that exceed the limit can be deferred to future years. But if losses are carried over, then the distinction between short-term and long-term net losses begins to [matter](https://www.irs.gov/publications/p544). For instance, if you realized a $5,000 net loss in Year 1 composed entirely of long-term losses, you would deduct $3,000 from your income in Year 1. In Year 2, you would have the opportunity to offset $2,000 of capital gains, but the long-term losses would preferentially cancel long-term gains. So net short-term and net long-term losses (or a combination of the two) are meaningfully different outcomes if total net losses exceed $3,000.
 
-Let's say in our example above with $50,000 of taxable income, we also realized a net $2,000 in short-term capital gains and a net $3,000 in long-term capital gains in 2022. How much federal income tax will we pay? You can imagine these amounts stacked on each other, with the earned income on the bottom, the net short-term capital gain in the middle, and the net long-term capital gain on top. Because short-term capital gains are taxed as ordinary income, we can merge the earned income and short-term gain into $52,000 of ordinary income. [We pay](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets) 10% on the first $9,950 of taxable income ([$995](https://www.wolframalpha.com/input?i=.1*9950)), then 12% up to $40,525 ([$3,669](https://www.wolframalpha.com/input?i=.12*%2840525-9950%29)), then 22% up to $52,000 ([$2524.50](https://www.wolframalpha.com/input?i=.22*%2852000-40525%29)), for a total of $7,188.50. Our net long-term capital gain of $3K is on top of the imaginary stack of $52K of ordinary income, so it ranges from $52K to $55K. All of this is higher than $40,400 but less than $445,850, so [we pay](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) 15% on all of our long-term gains ([$450](https://www.wolframalpha.com/input?i=.15*3000)), for a total of $7638.50. The net investment income tax does not apply because our income is far too low.
+Let's say in our example above with $50,000 of taxable income, we also realized a net $2,000 in short-term capital gains and a net $3,000 in long-term capital gains in 2022. How much federal income tax will we pay? You can imagine these amounts stacked on each other, with the earned income on the bottom, the net short-term capital gain in the middle, and the net long-term capital gain on top. You want the long-term gain on top because its marginal rate is lower than that of ordinary income for nearly every taxpayer.<sup id="fn1">[1](#f1)</sup> Because short-term capital gains are taxed as ordinary income, we can merge the earned income and short-term gain into $52,000 of ordinary income.
+
+[We pay](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets) 10% on the first $10,275 of taxable income ([$1,027.50](https://www.wolframalpha.com/input?i=.1*10275)), then 12% up to $40,525 ([$3,780](https://www.wolframalpha.com/input?i=.12*%2841775-10275%29)), then 22% up to $52,000 ([$2,249.50](https://www.wolframalpha.com/input?i=.22*%2852000-41775%29)), for a total of $7,057. Our net long-term capital gain of $3K is on top of the imaginary stack of $52K of ordinary income, so it ranges from $52K to $55K. All of this is higher than $41,675 but less than $459,750, so [we pay](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) 15% on all of our long-term gains ([$450](https://www.wolframalpha.com/input?i=.15*3000)), for a total of $7638.50. The net investment income tax does not apply because our income is far too low.
 
 #### Further essentials
 
@@ -130,5 +132,13 @@ All sections:
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
+
+&nbsp;
+
+Footnote:
+
+<sup id="f1"> 1 </sup> There is a funny region of $100 of taxable income in which the marginal rate for ordinary income is _lower_ than the marginal rate for long-term capital gains. The 0% capital gains rate increases to 15% above $41,675. Someone with a taxable income of $41,700 pays a marginal rate of 15% on capital gains but a marginal rate of only 12% on ordinary income! The threshold for the 22% rate is $41,775 for ordinary income.  [↩](#fn1)
 
 &nbsp;
