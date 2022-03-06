@@ -1,6 +1,6 @@
 # Taxes
 
-Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here. Unless otherwise mentioned, this section will describe taxes as they concern the trading of stocks and stock funds; bond funds are differentiated when needed.
+Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here. There are many mistakes your accountant can't fix retroactively.
 
 The information below is general and tax law is very particular. For example, somewhat different rules apply to you if you derive most of your income from farming or fishing. Understanding your own situation is important.
 
@@ -53,6 +53,20 @@ Bond funds regularly pay dividends, but these are different than the dividends y
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated above, [capital gains distributions](https://investor.vanguard.com/investing/taxes/mutual-funds-etfs) from mutual funds make their tax burden more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
 The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
+
+<!--
+The following sections explain [tax-advantaged accounts](), the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
+-->
+
+&nbsp;
+
+&nbsp;
+
+<!--
+-->
+## Tax-advantaged accounts
+
+We introduced the basics of tax-advantaged accounts in [a previous section](https://github.com/investindex/Guidelines#tax-advantaged-accounts). We'll cover some additional details here, starting with IRAs. Not everyone can contribute directly to a Roth IRA: if your modified AGI is at least $144K for single filers or $214K for joint filers in 2022, you [cannot contribute](https://www.irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2022) to a Roth IRA. Reductions in the maximum contribution from $6,000 begin at $129K for single filers and $204K for joint filers and proceed on a linear sliding scale. As mentioned previously, those who are at least 55 start with a higher maximum of $7,000. For example, a 40-year-old single filer with a MAGI of $134K can contribute a maximum of $4,000 to their Roth IRA. This income cap is toothless, however, because anyone can still contribute the maximum to a Roth IRA [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). You first contribute to a traditional IRA and immediately convert it to a Roth IRA (paying taxes on the contributions, as any Roth IRA contributor would). Congress has contemplated outlawing backdoor Roth IRAs but has yet to do so.
 
 &nbsp;
 
