@@ -55,7 +55,7 @@ Unrealized gains do not apply to taxes: if you buy shares but have not sold any,
 The following sections explain the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
 
 <!--
-The following sections explain [tax-advantaged accounts](), the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
+The following sections explain [tax-advantaged accounts](https://github.com/investindex/Taxes#tax-advantaged-accounts), the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
 -->
 
 &nbsp;
@@ -63,14 +63,16 @@ The following sections explain [tax-advantaged accounts](), the [rules on wash s
 &nbsp;
 
 <!--
--->
 ## Tax-advantaged accounts
 
-We introduced the basics of tax-advantaged accounts in [a previous section](https://github.com/investindex/Guidelines#tax-advantaged-accounts). We'll cover some additional details here, starting with IRAs. Not everyone can contribute directly to a Roth IRA: if your modified AGI is at least $144K for single filers or $214K for joint filers in 2022, you [cannot contribute](https://www.irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2022) to a Roth IRA. Reductions in the maximum contribution from $6,000 begin at $129K for single filers and $204K for joint filers and proceed on a linear sliding scale. As mentioned previously, those who are at least 55 start with a higher maximum of $7,000. For example, a 40-year-old single filer with a MAGI of $134K can contribute a maximum of $4,000 to their Roth IRA. This income cap is toothless, however, because anyone can still contribute the maximum to a Roth IRA [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). You first contribute to a traditional IRA and immediately convert it to a Roth IRA (paying taxes on the contributions, as any Roth IRA contributor would). Congress has contemplated outlawing backdoor Roth IRAs but has yet to do so.
+We introduced the basics of tax-advantaged accounts in [a previous section](https://github.com/investindex/Guidelines#tax-advantaged-accounts). We'll cover some additional details here, starting with IRAs. As mentioned previously, traditional IRA contributions are tax-deductible. However, if you're covered by a retirement plan at work — usually a 401(k) or 403(b) — _and_ your income is high enough, this is [not true](https://www.irs.gov/retirement-plans/plan-participant-employee/2022-ira-contribution-and-deduction-limits-effect-of-modified-agi-on-deductible-contributions-if-you-are-covered-by-a-retirement-plan-at-work). If your modified AGI is at least $78K for single filers or at least $129K for joint filers, you can still contribute to a traditional IRA, but it will not reduce your taxable income. These are fairly low caps: a married couple making $65K per person would exceed it.
+
+Not everyone can contribute directly to a Roth IRA: if your modified AGI is at least $144K for single filers or $214K for joint filers in 2022, you [cannot contribute](https://www.irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2022) to a Roth IRA. Reductions in the maximum contribution from $6,000 begin at $129K for single filers and $204K for joint filers and proceed on a linear sliding scale. As mentioned previously, those who are at least 55 start with a higher maximum of $7,000. For example, a 40-year-old single filer with a MAGI of $134K can contribute a maximum of $4,000 to their Roth IRA. This income cap is toothless, however, because anyone can still contribute the maximum to a Roth IRA [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). You first contribute to a traditional IRA and immediately convert it to a Roth IRA (paying taxes on the contributions, as any Roth IRA contributor would). Congress has contemplated outlawing backdoor Roth IRAs but has yet to do so.
 
 &nbsp;
 
 &nbsp;
+-->
 
 ## Wash sale rules
 
