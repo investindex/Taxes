@@ -135,6 +135,8 @@ There's more information on estimated payments in [IRS publication 505](https://
 
 The practice of "estimated tax" may strike some people as guesswork. How can you be sure you're paying enough before the end of the year? Remember that condition (b) above sets a hard limit on the amount you're expected to pay before tax day. You're all set as long as you pay the IRS as much as you paid in federal taxes the prior year — or, if your income is higher, 110% of what you paid the prior year. If your tax liability has decreased compared to the prior year, following only this guideline could lead to significant overpayment, so keep the other conditions in mind.
 
+Some states have estimated tax requirements under certain conditions; research the requirements of your state(s).
+
 &nbsp;
 
 &nbsp;
