@@ -40,7 +40,7 @@ The main way we could have reduced FICA taxes would have been to contribute to a
 
 #### Further essentials
 
-The above refers only to federal taxes. State tax policies on capital gains vary; check those for your own state. Most commonly, some states tax all capital gains as ordinary income and some states do not tax capital gains. There are other policies: some states tax short-term and long-term gains at different rates; some states have a distinct rate or rates for all capital gains or have a unique deduction for capital gains.
+The above refers only to federal taxes. State tax policies on capital gains vary; check those for your own state. Most commonly, some states tax all capital gains as ordinary income and some states do not tax capital gains. There are other policies: some states tax short-term and long-term gains at different rates; some states have a distinct rate or rates for all capital gains or have a unique deduction for capital gains. Your income may also be subject to state income tax and payroll taxes.
 
 In the context of taxes, a [lot](https://www.investopedia.com/terms/t/taxlotaccounting.asp) refers to a group of shares purchased in a single transaction. When selling shares of a stock or fund, the [FIFO (first in, first out)](https://www.investopedia.com/terms/f/fifo.asp) method is the default. This is because if you purchased shares of the same security on different days, you will automatically sell the lots purchased earliest and, if possible, make use of any long-term capital gains tax rates. You can use a [different method](https://www.investopedia.com/articles/05/taxlots.asp) of selecting lots to sell if it benefits you — these are called disposal methods.
 
