@@ -4,6 +4,14 @@ Tax awareness is important not only because of your legal obligation to file tax
 
 The information below is general and tax law is very particular. Somewhat different rules apply to you if you derive most of your income from farming or fishing. People with permanent disabilities receive very different tax treatment — these are just two examples. Understanding your own situation is important.
 
+Click to skip to each section:
+
+* [The essentials](https://github.com/investindex/Taxes#the-essentials)
+* [Tax-advantaged accounts](https://github.com/investindex/Taxes#tax-advantaged-accounts)
+* [Wash sale rules](https://github.com/investindex/Taxes#wash-sale-rules)
+* [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
+* [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
+
 &nbsp;
 
 ## The essentials
