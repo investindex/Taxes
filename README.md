@@ -4,7 +4,7 @@ Tax awareness is important not only because of your legal obligation to file tax
 
 The information below is general and tax law is very particular. Somewhat different rules apply to you if you derive most of your income from farming or fishing. People with permanent disabilities receive very different tax treatment — these are just two examples. Understanding your own situation is important.
 
-For the typical taxpayer who wants to do it on their own, I recommend [FreeTaxUSA](https://www.freetaxusa.com/). They're part of the IRS Free File Alliance, so you can file for free if your income is under the threshold ($73K in 2022). And if it's above the threshold, they charge an extremely reasonable $0 for the federal return and $15 for each state return.
+For the typical taxpayer who wants to do it on their own, I recommend [FreeTaxUSA](https://www.freetaxusa.com/). They're part of the IRS Free File Alliance, so you can file for free if your income is under the threshold ($73K in 2022). And if it's above the threshold, they charge an extremely reasonable $0 for the federal return and $15 for each state return. [This article](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free) is a good read on how lobbying by Intuit (creator of TurboTax) is almost single-handedly responsible for the absence of free, electronic filing for everyone.
 
 Click to skip to each section:
 
