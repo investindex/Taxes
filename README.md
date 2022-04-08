@@ -10,6 +10,8 @@ Click to skip to each section:
 
 * [The essentials](https://github.com/investindex/Taxes#the-essentials)
 * [Tax-advantaged accounts](https://github.com/investindex/Taxes#tax-advantaged-accounts)
+* [Roth or traditional?](https://github.com/investindex/Taxes#roth-or-traditional)
+* [Tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing)
 * [Wash sale rules](https://github.com/investindex/Taxes#wash-sale-rules)
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
 * [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
@@ -66,7 +68,14 @@ Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-ta
 
 &nbsp;
 
-The following sections explain [tax-advantaged accounts](https://github.com/investindex/Taxes#tax-advantaged-accounts), the [rules on wash sales](https://github.com/investindex/Taxes#wash-sale-rules), the practice of [tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting), and [estimated payments](https://github.com/investindex/Taxes#estimated-tax-payments) you may be required to make to the IRS throughout the year.
+Here are links to the rest of the sections:
+
+* [Tax-advantaged accounts](https://github.com/investindex/Taxes#tax-advantaged-accounts)
+* [Roth or traditional?](https://github.com/investindex/Taxes#roth-or-traditional)
+* [Tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing)
+* [Wash sale rules](https://github.com/investindex/Taxes#wash-sale-rules)
+* [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
+* [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
 
 &nbsp;
 
@@ -108,6 +117,25 @@ There's an important distinction between a refundable tax credit, like the [earn
 
 &nbsp;
 
+## Roth or traditional?
+
+No one should have all their retirement funds in either a traditional or Roth account — at least, no one who has been planning for retirement throughout their career and has always had both account types available to them (the Roth IRA was established in [1997](https://en.wikipedia.org/wiki/Taxpayer_Relief_Act_of_1997)). We can demonstrate this by considering the two extremes.
+
+First imagine someone who invested purely in Roth accounts. They've cultivated a huge nest egg of tax-exempt money, and now every year when they withdraw during retirement, their income taxes are zero. This may feel like a great accomplishment, but it was a miscalculation that made them poorer. Let's back up to their last year before retirement, when they have all their money in Roth accounts and are considering where to contribute. They're in the 24% federal marginal tax bracket and the 6% marginal tax bracket in their state. If they chose to contribute to Roth accounts this year, they would pay 30% tax on the money they contributed in the final year of working. They would withdraw it in their first year of retirement and pay zero tax. [Red buzzer sound effect.] Instead, they could have paid zero income tax on the last year's contributions by contributing to traditional accounts, then paid zero income tax when withdrawing because their taxable income was so low! This person did not have enough in traditional accounts: they surrendered wealth by frontloading taxes.
+
+FICA tax is not relevant to the question of Roth vs. traditional accounts, because you immediately pay FICA taxes on that income regardless. However, it does become relevant when you consider contributing to an HSA, because HSA contributions through payroll deduction are not subject to FICA taxes.
+
+&nbsp;
+
+&nbsp;
+
+## Tax-efficient investing
+
+I highly recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand this section.
+
+&nbsp;
+
+&nbsp;
 
 ## Wash sale rules
 
