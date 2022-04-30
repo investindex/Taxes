@@ -281,7 +281,7 @@ For very high earners, taking advantage of long-term capital gains is especially
 
 <sup id="f4"> 4 </sup> If you receive less than $10 of dividends through a given broker, they are not required to report it to the IRS and will generally not do so. However, you are still supposed to report those dividends. On your 1099-DIV, Box 1a reports the total dividends you received through that broker and Box 1b reports the subset of those that your broker has deemed qualified dividends. They may not always report your qualified dividends correctly. For example, in my personal experience, they may deem a dividend qualified even though it didn't satisfy the 60-day holding period. In this case, I did not report those dividends as qualified even though my broker did, so I reduced the figure in Box 1b.
 
-Sometimes dividends from a foreign country will have tax withheld. You can claim [a tax credit](https://www.schwab.com/resource-center/insights/content/claiming-foreign-taxes-credit-or-deduction) that reduces your tax owed to the IRS. [↩](#fn4)
+Sometimes dividends from a foreign country will have tax withheld. You can claim [a tax credit](https://www.schwab.com/resource-center/insights/content/claiming-foreign-taxes-credit-or-deduction) that reduces your tax owed to the IRS. If foreign taxes are withheld while you're investing in a tax-advantaged account, you can't be compensated with a tax credit. [↩](#fn4)
 
 &nbsp;
 
