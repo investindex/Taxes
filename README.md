@@ -1,6 +1,6 @@
 # Taxes
 
-Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here. There are mistakes and suboptimal actions that your accountant cannot fix retroactively. Overcontributing to your IRA or triggering wash sales you didn't plan for can lead to needless stress, paperwork, and potential tax penalties.
+Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Even if you pay someone to do your taxes, you need to understand the principles here. There are mistakes and suboptimal actions that your accountant cannot fix retroactively. Overcontributing to your IRA or triggering wash sales you didn't intend can lead to needless stress, paperwork, and potential tax penalties.
 
 The information below is general and tax law is very particular. Somewhat different rules apply to you if you derive most of your income from farming or fishing. People with permanent disabilities receive very different tax treatment — these are just two examples. Understanding your own situation is important.
 
