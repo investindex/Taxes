@@ -187,6 +187,8 @@ How exactly are wash sales counted for tax purposes? We can illustrate it by ret
 
 -This is another regulation which can be bypassed if the IRS recognizes trader tax status.
 
+Wash sales are not something you need to meticulously avoid. They are not inherently bad. But ideally, you should be conscious of creating a wash sale every time you do so.
+
 &nbsp;
 
 &nbsp;
