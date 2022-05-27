@@ -97,7 +97,7 @@ Not everyone can contribute directly to a Roth IRA: if your MAGI is at least $14
 
 These income restrictions imply that for people with employer-sponsored retirement plans and high enough MAGI — single filers > $78K and joint filers > $129K — a Roth IRA or backdoor Roth IRA is always superior to a traditional IRA. However, this doesn't mean they _should_ use a Roth IRA, because many such people would benefit more from additional contributions to their traditional 401(k) or HSA, thereby reducing taxes in the current year.
 
-Even if your gross income exceeds these thresholds, your MAGI might not. If we're a 40-year-old single filer with a gross income of $150K, at first glance you might think we can't contribute directly to a Roth IRA. But if we max out our traditional 401(k) with $20,500 and our HSA with $3,650, we've reduced our MAGI by $24,150 and it now falls below $129K! No need for a backdoor. Some people with high enough income are able to max out their traditional 401(k), their HSA, and their Roth IRA.
+Even if gross income exceeds these thresholds, MAGI might not. If we're a 40-year-old single filer with a gross income of $150K, at first glance you might think we can't contribute directly to a Roth IRA. But if we max out our traditional 401(k) with $20,500 and our HSA with $3,650, we've reduced our MAGI by $24,150 and it now falls below $129K! No need for a backdoor. Some people with high enough income are able to max out their traditional 401(k), their HSA, and their Roth IRA.
 
 To be clear: traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits. HSAs have no income restrictions under any conditions.
 
