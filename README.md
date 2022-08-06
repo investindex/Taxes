@@ -184,15 +184,17 @@ If your tax rates in old age are lower than those your beneficiary expects in th
 
 The most important aspect of tax-efficient investing is to contribute as much as possible to tax-advantaged accounts as early in life as possible. The best approach to tax-efficient placement of different funds is debatable, but maximizing the space in your tax-advantaged accounts is undoubtedly good.
 
-A central component of tax-efficient investing is deferring realized gains. We can illustrate this with a simplified example. Imagine a risk-free investment that increases in value by 10% every year. If we invest $1,000 and hold for 20 years without selling, the value would be [$6,727](https://www.wolframalpha.com/input?i=1000*1.1%5E20). Let's say we pay 15% tax on the entire gain, so the final after-tax value is [$5,868](https://www.wolframalpha.com/input?i=.85*%286727-1000%29+%2B+1000). Now imagine an alternate scenario in which we'd like to evenly spread out our taxes. We decide to sell at the end of each year, so we're taxed on our 10% gain and invest the remainder. Since our gain each year is taxed at 15%, our after-tax annual return is 8.5%. The final value after 20 years would be [$5,112](https://www.wolframalpha.com/input?i=1000*1.085%5E20).
+A central component of tax-efficient investing is deferring realized gains. We can illustrate this with a simplified example. Imagine a risk-free investment that increases in value by 10% every year. If we invest $1,000 and hold for 20 years without selling, the value would be [$6,727](https://www.wolframalpha.com/input?i=1000*1.1%5E20). Let's say we pay 15% tax on the entire gain, so the final after-tax value is [$5,868](https://www.wolframalpha.com/input?i=6727+-+.15*%286727-1000%29). Now imagine an alternate scenario in which we'd like to evenly spread out our taxes. We decide to sell at the end of each year, so we're taxed on our 10% gain and invest the remainder. Since our gain each year is taxed at 15%, our after-tax annual return is 8.5%. The final value after 20 years would be [$5,112](https://www.wolframalpha.com/input?i=1000*1.085%5E20).
 
 When we volunteered to pay tax every year, our average annual after-tax return was 8.5%. When we deferred tax, we were able to increase the average annual return to [9.25%](https://www.wolframalpha.com/input?i=%285868%2F1000%29%5E%281%2F20%29). Why such a large difference? By declining to realize the gain, we held on to the money we would have paid in tax each year and continued to invest it. The $15 that would have been paid in tax the first year was invested for another 19 years before finally handing it over to the IRS. Note how small that $15 seems, but how the practice of deferring tax every year resulted in a difference of over $750 on an initial $1,000 investment.
 
 Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that selling before you must is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
 
-Tax-advantaged accounts are so great because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.
+__Tax-advantaged accounts are so great because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
 
 <!-- Avoid, defer, minimize -->
+
+&nbsp;
 
 Funds are more tax-efficient if:
 
@@ -200,9 +202,13 @@ Funds are more tax-efficient if:
 
 (B) More of their distributions are taxed at long-term CG rates. This includes qualified dividends and long-term CG distributions.
 
-As a result, total stock market ETFs like VTI are quite tax-efficient. Most of their total return arises from capital gains, dividends are mostly qualified, and there are no CG distributions. Even total stock market mutual funds are nearly as efficient because they include all stocks and don't have to add or remove companies when the index is updated. (Adding or removing companies can trigger capital gains that have to be passed on to mutual fund shareholders.) Bond funds are less efficient because a larger proportion of their total return arises from dividend payments, and their dividends are always taxed as ordinary income. Bond funds — both ETFs and mutual funds — sometimes distribute capital gains, which may be short-term, long-term, or both.
+As a result, total stock market ETFs like VTI are quite tax-efficient. Most of their total return arises from capital gains, dividends are mostly qualified, and there are no CG distributions. Even total stock market mutual funds are nearly as efficient because they include all stocks and don't have to add or remove companies when the index is updated. (Adding or removing companies can trigger capital gains that have to be passed on to mutual fund shareholders.) Bond funds are less efficient because a larger proportion of their total return arises from dividend payments, and their dividends are always taxed as ordinary income. Bond funds — both ETFs and mutual funds — sometimes distribute capital gains, which may be short-term, long-term, or both. Funds that exclusively hold [real estate investment trusts (REITs)](https://www.investopedia.com/terms/r/reit.asp) are also relatively tax-inefficient because they pay high yields and their dividends are mostly non-qualified. REITs are included in total stock market funds.
 
 To evaluate the tax-efficiency of a specific fund, you can check its past distributions, which tend to be good indicators of future distributions. If a fund is new, you can check similar funds with longer histories.
+
+&nbsp;
+
+#### Tax-efficient fund placement
 
 I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand on that topic.
 
