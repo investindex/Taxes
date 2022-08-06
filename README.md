@@ -79,6 +79,12 @@ Unrealized gains do not apply to taxes: if you buy shares but have not sold any,
 
 Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-tax-breaks) for the most common tax credits.
 
+#### Gift tax
+
+Despite some [great](https://www.youtube.com/watch?v=feJO6_rAGCU) [explanations](https://smartasset.com/retirement/gift-tax-limits) online, there is pervasive confusion about taxes on monetary gifts. The IRS does not care about people gifting one another normal amounts of money, and very few people ever need to pay gift tax. In 2022, you can gift any number of people up to $16K each without tax reporting obligations. Once you exceed the $16K threshold for any gift receiver in a given year, usually you still have no tax liability. But you do have a reporting obligation. When the gift-giver files their taxes, they should report the excess over $16K that they've gifted to each person in that tax year. The excess over the annual threshold counts toward your _lifetime gift tax exemption_. The lifetime exemption is $12.06 million in 2022 and, like the annual exemption of $16K, it's indexed to inflation and can change each year.
+
+If you were to cumulatively gift more than $12.06 million beyond the $16K per-person exemption you're given each year, only then would you begin to pay federal gift tax (at marginal rates ranging from 18% to 40%). Reimbursements don't count as gifts, so sending someone money doesn't always count toward the annual exemption. Directly paying someone's medical bills or a student's tuition is also not counted as a gift for tax purposes. Property with monetary value, like a car or house, does count as a gift. Gifts given to a spouse (who is a US citizen) or to a dependent are not counted. If you're married, the limit is unchanged at $16K per person. You and your spouse could each give $16K to the same person in the same year without reporting obligations. The joint lifetime exemption is naturally doubled to more than $24 million. A vast majority of people will never be wealthy enough to potentially owe federal gift tax. The only states with gift taxes are Connecticut and Minnesota. There are a number of states with inheritance or estate taxes.
+
 &nbsp;
 
 Here are links to the rest of the sections:
@@ -116,13 +122,17 @@ These income restrictions imply that for people with employer-sponsored retireme
 
 Even if gross income exceeds these thresholds, MAGI might not. If we're a 40-year-old single filer with a gross income of $150K, at first glance you might think we can't contribute directly to a Roth IRA. But if we max out our traditional 401(k) with $20,500 and our HSA with $3,650, we've reduced our MAGI by $24,150 and it now falls below $129K! No need for a backdoor. Some people with high enough income are able to max out their traditional 401(k), their HSA, and their Roth IRA.
 
-_Traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits.__ The issues discussed above apply only to IRAs. HSAs have no income restrictions under any conditions.
+__Traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits.__ The issues discussed above apply only to IRAs. HSAs have no income restrictions under any conditions.
 
 #### Contribution timing
 
 As you might expect, 401(k) contributions can apply only to the current year: contributions for tax year 2022 cannot be made after Dec 31 2022, and they need to be made through payroll deduction. HSA contributions do not _need_ to be made through payroll deduction but it would be foolish not to do so, because contributing the money yourself would cause you to owe FICA taxes on that income. The only exception is if your employer does not offer pre-tax deposits to an HSA, but your health plan is eligible and you've decided to contribute on your own. 
 
 In contrast to 401(k) contributions, IRA and HSA contributions can be delayed until tax day of the following year (roughly April 15). This allows you to assess the tax consequences of traditional IRA contribution or whether you are eligible for direct Roth IRA contribution. If there is any uncertainty about whether your MAGI could make you ineligible for Roth IRA contributions or tax-deductible traditional IRA contributions, _do not contribute_ to your IRA until the year is over and you can be sure. When you contribute to an IRA, your broker will ask you to characterize the contribution: you will mark it as (a) for the current year, (b) for the previous year, or (c) from a rollover, most commonly from a 401(k). The delay for your HSA provides more time for you to make contributions for the previous tax year, with greater information about whether your maximum for that tax year should be [reduced](https://github.com/investindex/TaxAdv#contribution-limits). However, even by April 15, you may not be certain whether you can use the [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/).
+
+<!--
+#### Mega backdoor Roth
+-->
 
 #### Saver's credit
 
@@ -145,8 +155,6 @@ Alternatively, imagine William, who invested only in traditional accounts. He's 
 Let's say that for five years William set aside $5K per year before income taxes, for a total of $25K. The $25K could have been contributed after taxes to a Roth account, so the contribution would have been $25K × .86 = $21.5K. Or the $25K could have been contributed in full to a traditional account. Let's say that in the next 40 years, these contributions are invested in stocks and multiply by 18 in nominal terms (i.e., not adjusted for inflation). So the Roth amount of $21.5K would grow to $387K and the traditional amount of $25K would grow to $450K. When the money is finally withdrawn from a Roth IRA over a number of years, there is no tax owed, so it is still $387K after tax. When the money is withdrawn from a traditional IRA each year and subject to 30% tax, the after-tax value of the withdrawal is smaller even though the pre-tax amount was larger: $450K × .7 = $315K. By contributing some money to Roth accounts, William would have been able to reduce his marginal (and effective) tax rates in retirement. He surrendered wealth by backloading taxes and paying too much tax in retirement.
 
 So the question is not whether Roth or traditional accounts are better, but _when_ it makes sense to contribute to each type of account. Pay taxes now or later? The goal is to distribute payment of income tax from your earning years to your non-earning years, but not by so much that you pay higher taxes during non-earning years. Executed properly, this decreases your lifetime tax paid and increases your wealth significantly.
-
-[The rest of this is disorganized for now but will be organized and expanded later.]
 
 #### Other variables
 
