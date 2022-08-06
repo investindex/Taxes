@@ -116,7 +116,7 @@ These income restrictions imply that for people with employer-sponsored retireme
 
 Even if gross income exceeds these thresholds, MAGI might not. If we're a 40-year-old single filer with a gross income of $150K, at first glance you might think we can't contribute directly to a Roth IRA. But if we max out our traditional 401(k) with $20,500 and our HSA with $3,650, we've reduced our MAGI by $24,150 and it now falls below $129K! No need for a backdoor. Some people with high enough income are able to max out their traditional 401(k), their HSA, and their Roth IRA.
 
-To be clear: traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits. HSAs have no income restrictions under any conditions.
+_Traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits.__ The issues discussed above apply only to IRAs. HSAs have no income restrictions under any conditions.
 
 #### Contribution timing
 
@@ -136,7 +136,7 @@ Recall the distinction between refundable and nonrefundable tax credits, as intr
 
 ## Roth or traditional?
 
-No one should have all their retirement funds in either a traditional or Roth account — at least, no one who has been planning for retirement throughout their career and has always had both account types available to them. (The Roth IRA was established in [1997](https://en.wikipedia.org/wiki/Taxpayer_Relief_Act_of_1997), and the maximum contribution in 1998 was $2,000.) We can illustrate this by considering two extreme investors who use only one type of account, and we'll name the characters [Bob and William](https://en.wikipedia.org/wiki/Roth_IRA#History) after the sponsors of the Roth IRA bill.
+No one should save all their retirement funds in either a traditional or Roth account — at least, no one who has been planning for retirement throughout their career and has always had both account types available to them. (The Roth IRA was established in [1997](https://en.wikipedia.org/wiki/Taxpayer_Relief_Act_of_1997), and the maximum contribution in 1998 was $2,000.) We can illustrate this by considering two extreme investors who use only one type of account, and we'll name the characters [Bob and William](https://en.wikipedia.org/wiki/Roth_IRA#History) after the sponsors of the Roth IRA bill.
 
 First imagine Bob, who invested purely in Roth accounts. Bob cultivated a huge nest egg of tax-exempt money, and now every year when he withdraws during retirement, his income taxes are zero. This may feel like a great accomplishment, but it was a miscalculation that made him poorer. Let's back up to his last year before retirement, when he's in the 32% federal marginal tax bracket and the 8% state marginal tax bracket (the state brackets will be made up). He has all his money in Roth accounts and is considering where to contribute. If Bob chose to contribute to Roth accounts this year, he would pay 40% income tax on the contributions, then he would withdraw it in his first year of retirement and pay zero tax. (_Red buzzer sound effect_ — wrong!) Instead, he could have paid zero income tax on the last year's contributions by contributing to traditional accounts, then zero or very little tax when withdrawing because his taxable income was so low! Bob did not have enough in traditional accounts: he surrendered wealth by frontloading taxes.
 
