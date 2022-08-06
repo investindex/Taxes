@@ -212,6 +212,8 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand on that topic.
 
+&nbsp;
+
 #### The tax issue with global funds
 
 A pervasive recommendation in this guide is Vanguard's total world stock ETF, [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt). Its simplicity is appealing, but policy around the [foreign tax credit](https://www.thebalance.com/foreign-tax-credit-3193475) leads to a minor caveat. When you invest in funds with international exposure like VT, some tax is withheld from dividends paid by the fund. The foreign tax credit means that you can often reduce your tax owed to the IRS if tax was withheld by a foreign country. However, the US tax code [states](https://www.law.cornell.edu/uscode/text/26/853) that in order for a fund to be eligible for the foreign tax credit, foreign assets must constitute more than 50% of the fund's value at the end of the tax year. Since VT's portfolio is more than 50% US stocks, the foreign tax credit does not apply. The withheld taxes are retained by the foreign government, _and_ you still owe that amount to the IRS.
