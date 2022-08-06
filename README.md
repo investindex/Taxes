@@ -190,7 +190,7 @@ When we volunteered to pay tax every year, our average annual after-tax return w
 
 Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that selling before you must is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
 
-__Tax-advantaged accounts are so great because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
+__Tax-advantaged accounts are so great partly because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
 
 <!-- Avoid, defer, minimize -->
 
