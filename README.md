@@ -188,6 +188,8 @@ A central component of tax-efficient investing is deferring realized gains. We c
 
 By deferring tax, we were able to increase the average annual after-tax return from 8.5% to about [9.25%](https://www.wolframalpha.com/input?i=%285868%2F1000%29%5E%281%2F20%29). Why such a large difference? By declining to realize the gain, we held on to the money we would have paid in tax each year and continued to invest it. The $15 that would have been paid in tax the first year was invested for another 19 years before finally handing it over to the IRS. Note how small that $15 seems, but how the practice of deferring tax every year resulted in a difference of over $750 on an initial $1,000 investment.
 
+The effect expands as the period of deferral increases. The average annual after-tax return for this approach is 8.72% after 5 years, 8.94% after 10 years, 9.25% after 20 years — as mentioned above — 9.44% after 30 years, and 9.57% after 40 years.
+
 Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that selling before you must is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
 
 __Tax-advantaged accounts are so great partly because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
@@ -210,7 +212,7 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 #### Tax-efficient fund placement
 
-I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand on that topic.
+I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand on this topic.
 
 &nbsp;
 
