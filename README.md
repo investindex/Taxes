@@ -192,7 +192,7 @@ By deferring tax, we were able to increase the average annual after-tax return f
 
 The effect expands as the period of deferral increases. The average annual after-tax return for this approach is 8.72% after 5 years, 8.94% after 10 years, 9.25% after 20 years — as mentioned above — 9.44% after 30 years, and 9.57% after 40 years. This compares to 8.5% returns if you realize gains every year.
 
-Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that selling before you must is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
+Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that realizing gains prematurely is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
 
 __Tax-advantaged accounts are so great partly because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
 
