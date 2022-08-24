@@ -124,7 +124,7 @@ These income restrictions imply that for people with employer-sponsored retireme
 
 Even if gross income exceeds these thresholds, MAGI might not. If we're a 40-year-old single filer with a gross income of $150K, at first glance you might think we can't contribute directly to a Roth IRA. But if we max out our traditional 401(k) with $20,500 and our HSA with $3,650, we've reduced our MAGI by $24,150 and it now falls below $129K! No need for a backdoor. Some people with high enough income are able to max out their traditional 401(k), their HSA, and their Roth IRA.
 
-__Traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits.__ The issues discussed above apply only to IRAs. HSAs have no income restrictions under any conditions. Other contribution limits were discussed [previously](https://github.com/investindex/TaxAdv)
+__Traditional 401(k) accounts have no income restrictions on tax deductibility, and Roth 401(k) accounts have no income restrictions on contribution limits.__ The issues discussed above apply only to IRAs. HSAs have no income restrictions under any conditions. Other contribution limits were discussed [previously](https://github.com/investindex/TaxAdv).
 
 #### Contribution timing
 
@@ -156,7 +156,7 @@ Alternatively, imagine William, who invested only in traditional accounts. He's 
 
 Let's say that for five years William set aside $5K per year before income taxes, for a total of $25K. The $25K could have been contributed after taxes to a Roth account, so the contribution would have been $25K × .86 = $21.5K. Or the $25K could have been contributed in full to a traditional account. Let's say that in the next 40 years, these contributions are invested in stocks and multiply by 18 in nominal terms (i.e., not adjusted for inflation). So the Roth amount of $21.5K would grow to $387K and the traditional amount of $25K would grow to $450K. When the money is finally withdrawn from a Roth IRA over a number of years, there is no tax owed, so it is still $387K after tax. When the money is withdrawn from a traditional IRA each year and subject to 30% tax, the after-tax value of the withdrawal is smaller even though the pre-tax amount was larger: $450K × .7 = $315K. By contributing some money to Roth accounts, William would have been able to reduce his marginal (and effective) tax rates in retirement. He surrendered wealth by backloading taxes and paying too much tax in retirement.
 
-So the question is not whether Roth or traditional accounts are better, but _when_ it makes sense to contribute to each type of account. Pay taxes now or later? The goal is to distribute payment of income tax from your earning years to your non-earning years, but not by so much that you pay higher taxes during non-earning years. Executed properly, this decreases your lifetime tax paid and increases your wealth significantly.
+So the question is not whether Roth or traditional accounts are better, but _when_ it makes sense to contribute to each type of account. Pay taxes now or later? __The goal is to distribute payment of income tax from your earning years to your non-earning years, but not by so much that you pay higher taxes during non-earning years.__ Executed properly, this decreases your lifetime tax paid and increases your wealth significantly.
 
 #### Other variables
 
