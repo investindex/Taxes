@@ -196,7 +196,7 @@ The effect expands as the period of deferral increases. The average annual after
 <img src="https://github.com/investindex/Taxes/blob/main/Tax%20Deferral.png" width="631" height="540"/>
 </p>
 
-Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that realizing gains prematurely is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be the same as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer.
+Distributions include dividends as well as capital gains (CG) distributions from funds. For the same reason that realizing gains prematurely is inefficient, distributions are inefficient compared to capital gains. If the 10% annual gain in our imaginary investment were instead a 10% annual dividend, it would be as bad as the scenario in which we sold every year. Distributions are an involuntary taxable event that you cannot defer in a taxable account.
 
 __Tax-advantaged accounts are so great partly because they allow tax on every distribution and realized capital gain to be deferred, potentially for decades.__
 
