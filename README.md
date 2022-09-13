@@ -222,7 +222,7 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 #### Tax-efficient fund placement
 
-I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) on tax-efficient fund placement. In the near future I'll expand on this topic.
+I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) and [this White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/) on tax-efficient fund placement. In the near future I'll expand on this topic.
 
 &nbsp;
 
