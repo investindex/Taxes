@@ -228,7 +228,7 @@ Once you've advanced beyond the common misconceptions, we can consider the follo
 
 * Future tax rates, our future earned income, and the state to which we'll pay taxes in each year
 * Future returns for all funds we'll hold
-* The characteristics of their future returns (capital gains, distributions taxed as ordinary income or long-term capital gains)
+* The characteristics of future returns (capital gains, distributions taxed as short- or long-term capital gains)
 
 Of course, with this kind of predictive ability, we could quickly become the richest person alive. So what can we do with realistic knowledge of the future? Funds with higher expected return and lower tax-efficiency are more suitable for tax-advantaged accounts. But because ideal fund locations vary so much depending on the three factors above, which we can't know in advance, it's not possible to carry out anything close to perfect asset location. If we form a strategy that depends on particular expectations, it has a strong chance of underperforming the default strategy of holding the same funds in all accounts. On top of that, a complex approach to fund placement can add mental overhead and make it harder to rebalance.
 
