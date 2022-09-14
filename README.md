@@ -222,7 +222,7 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 #### Tax-efficient fund placement
 
-I recommend [this White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/), which covers every major point about proper asset location with regard to taxes. There are several widespread misconceptions about tax-efficient fund placement, and I couldn't explain it better than he does. [This Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) covers some minor details that aren't addressed by the first link.
+I recommend [this White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/), which covers every major point about proper asset location with regard to taxes. There are several widespread misconceptions about tax-efficient fund placement, and I couldn't explain it better than he does. [This Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) covers some additional, minor details.
 
 Once you've advanced beyond the common misconceptions, we can consider the following. We would be able to design perfectly tax-efficient fund location if we knew:
 
