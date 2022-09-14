@@ -214,7 +214,7 @@ Funds are more tax-efficient if:
 
 (B) More of their distributions are taxed at long-term CG rates. This includes qualified dividends and long-term CG distributions.
 
-As a result, total stock market ETFs like VTI are quite tax-efficient. Most of their total return arises from capital gains, dividends are mostly qualified, and there are no CG distributions. Even total stock market mutual funds are nearly as efficient because they include all stocks and don't have to add or remove companies when the index is updated. (Adding or removing companies can trigger capital gains that have to be passed on to mutual fund shareholders.) Bond funds are less efficient because a larger proportion of their total return arises from dividend payments, and their non-qualified dividends are always taxed as ordinary income. Bond funds — both ETFs and mutual funds — sometimes distribute capital gains, which may be short-term, long-term, or a combination. Funds that exclusively hold [real estate investment trusts (REITs)](https://www.youtube.com/watch?v=IzK5x3LlsUU) are also relatively tax-inefficient because they pay high yields and their dividends are mostly non-qualified. REITs are included in total stock market funds. Target retirement mutual funds can have [large CG distributions](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228), so they shouldn't be held in a taxable account.
+As a result, total stock market ETFs like VTI are quite tax-efficient. Most of their total return arises from capital gains, dividends are mostly qualified, and there are no CG distributions. Even total stock market mutual funds are nearly as efficient because they include all stocks and don't have to add or remove companies when the index is updated. (Adding or removing companies can trigger capital gains that have to be passed on to mutual fund shareholders.) Bond funds are less efficient because a larger proportion of their total return arises from dividend payments, and their non-qualified dividends are always taxed as ordinary income. Bond funds — both ETFs and mutual funds — sometimes distribute capital gains, which may be short-term, long-term, or a combination. Funds that exclusively hold [real estate investment trusts (REITs)](https://www.youtube.com/watch?v=IzK5x3LlsUU) are also [relatively tax-inefficient](https://www.reits.org/basics/reit-taxation/) because they pay high yields and their dividends are mostly non-qualified. REITs are included in total stock market funds. Target retirement mutual funds can have [large CG distributions](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228), so they shouldn't be held in a taxable account.
 
 To evaluate the tax-efficiency of a specific fund, you can check its past distributions, which tend to be good indicators of future distributions. If a fund is new, you can check similar funds with longer histories.
 
@@ -222,7 +222,19 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 #### Tax-efficient fund placement
 
-I recommend [this Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) and [this White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/) on tax-efficient fund placement. In the near future I'll expand on this topic.
+I recommend [this White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/), which covers every major point about proper asset location with regard to taxes. There are several widespread misconceptions about tax-efficient fund placement, and I couldn't explain it better than he does. [This Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) covers some minor details that aren't addressed by the first link.
+
+Once you've advanced beyond the common misconceptions, we can consider the following. We would be able to design perfectly tax-efficient fund location if we knew:
+
+* Future tax rates, our future earned income, and the state to which we'll pay taxes in each year
+* Future returns for all funds we'll hold
+* The characteristics of their future returns (capital gains, distributions taxed as ordinary income or long-term capital gains)
+
+Of course, with this kind of predictive ability, we could quickly become the richest person alive. So what can we do with realistic knowledge of the future? Funds with higher expected return and lower tax-efficiency are more suitable for tax-advantaged accounts. But because ideal fund locations vary so much depending on the three factors above, which we can't know in advance, it's not possible to carry out anything close to perfect asset location. If we form a strategy that depends on particular expectations, it has a considerable chance of underperforming the default strategy of holding the same funds in all accounts. On top of that, a complex approach to fund placement can add mental overhead and make it harder to rebalance.
+
+So we should take only the low-hanging fruit, if we take any. If you choose to buy [REIT funds](https://www.youtube.com/watch?v=IzK5x3LlsUU), they should be held in tax-advantaged accounts because they have both high expected return and poor tax efficiency. In the current interest rate environment, holding bonds equally across accounts is a good approach. Bonds with very high yields should be overweighted in tax-advantaged accounts. Note that bonds with high yields aren't necessarily junk bonds: even three-month US Treasury bonds had current yields [as high as 16%](https://fred.stlouisfed.org/series/TB3MS) in the early 1980s.
+
+Ben Felix has a [video](https://www.youtube.com/watch?v=vTFP36EfZa0) on this from the perspective of Canadian tax law, but his conclusion is the same as mine for largely the same reasons. Efficient location is so sensitive to the three variables above that it's impossible to execute with confidence.
 
 &nbsp;
 
