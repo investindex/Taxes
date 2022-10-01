@@ -197,7 +197,7 @@ The effect expands as the period of deferral increases. The average annual after
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/investindex/Taxes/blob/main/Tax%20Deferral.png" width="631" height="540"/>
+<img src="https://github.com/investindex/Taxes/blob/main/Defer%20Tax.png/>
 </p>
 
 &nbsp;
