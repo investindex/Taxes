@@ -19,7 +19,7 @@ Click to skip to each section:
 
 ## The basics
 
-If you aren't sure you completely understand marginal tax rates, and how a marginal tax rate differs from an average or effective tax rate, go ahead and watch [these](https://www.youtube.com/watch?v=bHGKwQGYlEY) [two](https://www.youtube.com/watch?v=SJL4UT4wAxc) brief videos. This is a prerequisite to understanding everything else.
+If you aren't sure you completely understand marginal tax rates, and how a marginal tax rate differs from an average or effective tax rate, go ahead and watch [these](https://www.youtube.com/watch?v=bHGKwQGYlEY) [two](https://www.youtube.com/watch?v=SJL4UT4wAxc) brief videos. This is a prerequisite to understanding everything else. A marginal tax rate is the rate at which you pay tax on the next dollar you earn. An effective or average tax rate is the rate at which you pay tax when all dollars are considered.
 
 The difference between a "tax return" and a "tax refund" is commonly misunderstood. Your tax return is the documentation you send to the IRS (and state-level counterparts) each year. Often you'll be owed money and will receive a payment from the IRS. This is not your return; it is your refund. Receiving a large refund may be psychologically rewarding, but it is not a benefit. It simply means that you overpaid taxes and the IRS is refunding the overpayment. The refund you receive, or the payment you make, when you file your taxes is meant to resolve the difference between the amount you already paid and your tax liability. Ideally your refund (or the amount you owe) each year should be small. If it is small, that means the tax you owed was accurately withheld from your paychecks (or otherwise sent to the IRS throughout the year).
 
