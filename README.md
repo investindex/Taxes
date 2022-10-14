@@ -222,7 +222,7 @@ To evaluate the tax-efficiency of a specific fund, you can check its past distri
 
 #### Tax-efficient fund placement
 
-Asset location refers to the strategic placement of different assets in taxable, tax-deferred, and tax-exempt accounts. [This White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/) covers every major point about proper asset location. There are several widespread misconceptions about tax-efficient fund placement, and I couldn't explain it better than he does. [This Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) covers some additional, minor details.
+Asset location refers to the strategic placement of different assets in taxable, tax-deferred, and tax-exempt accounts. [This White Coat Investor post](https://www.whitecoatinvestor.com/my-two-asset-location-pet-peeves/) rebuts the major misconceptions about proper asset location. He describes how tax efficiency and total return combine to produce a total tax cost, and how to think about one's portfolio in traditional vs. Roth accounts. [This Bogleheads post](https://www.bogleheads.org/wiki/Tax-efficient_fund_placement) covers some additional, minor details.
 
 Once you've advanced beyond the common misconceptions, we can consider the following. We would be able to design perfectly tax-efficient fund location if we knew:
 
