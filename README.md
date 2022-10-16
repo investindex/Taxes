@@ -347,11 +347,11 @@ All sections:
 
 Footnotes:
 
-<sup id="f1"> 1 </sup> Charitable donations can reduce your taxable income in addition to the standard deduction because they count as an [above the line](https://www.thebalance.com/above-the-line-deductions-to-reduce-your-tax-bill-4584471) deduction (up to $300 for single filers, $600 for joint filers). They reduce your [adjusted gross income](https://www.nerdwallet.com/article/taxes/adjusted-gross-income-agi), which is calculated _before_ you take the standard deduction (or, less commonly, take itemized deductions). Other above the line deductions include [student loan interest](https://www.thebalance.com/student-loan-interest-deduction-3193022) up to $2,500 per year, as long as your income is low enough. Contributions to your HSA, 401(k), and IRA can also count, with income caveats for [the IRA](https://github.com/investindex/Taxes#traditional-iras) but [not HSA or 401(k)](https://github.com/investindex/Taxes#tax-advantaged-accounts). [↩](#fn1)
+<sup id="f1"> 1 </sup> Charitable donations can reduce your taxable income in addition to the standard deduction because they count as an [above the line](https://www.thebalance.com/above-the-line-deductions-to-reduce-your-tax-bill-4584471) deduction (up to $300 for single filers, $600 for joint filers). They reduce your [adjusted gross income](https://www.nerdwallet.com/article/taxes/adjusted-gross-income-agi), which is calculated _before_ you take the standard deduction. Other above the line deductions include [student loan interest](https://www.thebalance.com/student-loan-interest-deduction-3193022) up to $2,500 per year, as long as your income is low enough. Contributions to your HSA, 401(k), and IRA can also count, with income caveats for [the IRA](https://github.com/investindex/Taxes#traditional-iras) but [not HSA or 401(k)](https://github.com/investindex/Taxes#tax-advantaged-accounts). [↩](#fn1)
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Mortgage interest deduction, property tax and state income tax deduction. [↩](#fn2)
+<sup id="f2"> 2 </sup> Let's say a married couple who owns an expensive home is considering whether to itemize deductions or take the standard deduction of $25,900. They paid a lot in state and local income and property tax, so they can [deduct](https://www.thebalancemoney.com/property-tax-deduction-3192847) the maximum of $10,000 from their federal taxable income. They recently bought their home and pay a great deal of mortgage interest. Let's say they paid $30,000 of [deductible mortgage interest](https://www.investopedia.com/terms/home-mortgage-interest.asp). And let's say they donated $2,000 to charity. Since they can deduct $42,000 by itemizing, they choose to do so. [↩](#fn2)
 
 &nbsp;
 
