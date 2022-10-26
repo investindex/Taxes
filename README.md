@@ -87,7 +87,7 @@ The government doesn't make it terribly easy to receive appropriate tax deductio
 
 How can we get the IRS to recognize our donations a little more? The simplest way is to be someone who itemizes their deductions. An example of how itemized deductions can exceed the standard deduction is given in the [second footnote](https://github.com/investindex/Taxes#f2). Because that married couple has itemized deductions that exceed the standard deduction before they make donations, they get deductions for every dollar donated.
 
-For those who generally take the standard deduction, it helps to cluster your donations so that you can occasionally itemize deductions in one tax year. You could donate directly to charities or, if the amount is large enough, to a [donor-advised fund (DAF)](https://github.com/investindex/TaxAdv#charity). You can invest money earmarked for charity in your traditional retirement account, but you can't use that money for tax-deductible donations until age 70½.
+For those who generally take the standard deduction, it helps to cluster your donations so that you can occasionally itemize deductions in one tax year. You could donate directly to charities or, if the amount is large enough, to a [donor-advised fund (DAF)](https://github.com/investindex/TaxAdv#charity). You can invest money earmarked for charity in traditional retirement accounts, but you can't use that money for tax-deductible donations until age 70½.
 
 Most large charities accept securities as well as cash. If you own shares of a stock fund that have appreciated, you can avoid paying any tax on the gains and take a deduction by donating the shares to a charity or your DAF.
 
