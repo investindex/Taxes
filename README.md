@@ -89,6 +89,8 @@ How can we get the IRS to recognize our donations a little more? The simplest wa
 
 For those who generally take the standard deduction, it helps to cluster your donations so that you can occasionally itemize deductions in one tax year. You could donate directly to charities or, if the amount is large enough, to a [donor-advised fund (DAF)](https://github.com/investindex/TaxAdv#charity). You can invest money earmarked for charity in traditional retirement accounts, but you can't use that money for tax-deductible donations until age 70½.
 
+It makes sense to contribute to a DAF only if your entire donation, or a vast majority, is tax-deductible. Otherwise the 0.6% annual fees charged by Fidelity, Schwab, and Vanguard would consume more money than you can save through tax-exempt investing.
+
 Most large charities accept securities as well as cash. If you own shares of a stock fund that have appreciated, you can avoid paying any tax on the gains and take a deduction by donating the shares to a charity or your DAF.
 
 More information on charity and tax-advantaged accounts was given in a [previous section](https://github.com/investindex/TaxAdv#charity).
