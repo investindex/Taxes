@@ -81,6 +81,16 @@ Unrealized gains do not apply to taxes: if you buy shares but have not sold any,
 
 Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-tax-breaks) for the most common tax credits.
 
+#### Charity
+
+The government doesn't make it terribly easy to receive appropriate tax deductions for charitable donations. As discussed above, those taking the standard deduction can deduct $300 as single filers or $600 as joint filers for donations to charity or a [donor-advised fund (DAF](https://github.com/investindex/TaxAdv#charity). But any additional donations get you zero points with Uncle Sam. A single filer who donated $5,000 in 2022 might still take the standard deduction because their itemized deductions were less than $12,950. This generous donor would receive the same deduction as a similar person who donated $300.
+
+How can we get the IRS to recognize our donations a little more? The simplest way is to be someone who itemizes their deductions. An example of how itemized deductions can exceed the standard deduction is given in the [second footnote](https://github.com/investindex/Taxes#f2). Because that married couple has itemized deductions that exceed the standard deduction before they make donations, they get deductions for every dollar of their donations.
+
+For those who generally take the standard deduction, it helps to cluster your donations so that you can occasionally itemize deductions in one tax year. You could donate directly to charities or, if the amount is large enough, to a donor-advised fund. You can invest money earmarked for charity in your traditional retirement account, but you can't use that money for tax-deductible donations until age 70½.
+
+Most large charities accept securities as well as cash. If you own shares of a stock fund that have appreciated greatly, you can avoid paying any tax on the gains and take a deduction by donating the shares to a charity or your DAF.
+
 #### Gift tax
 
 Despite some [great](https://www.youtube.com/watch?v=feJO6_rAGCU) [explanations](https://smartasset.com/retirement/gift-tax-limits) online, there is pervasive confusion about taxes on monetary gifts. The IRS does not care about people gifting one another normal amounts of money, and very few people ever need to pay gift tax. In 2022, you can gift any number of people up to $16K each without tax reporting obligations. Once you exceed the $16K threshold for any gift receiver in a given year, usually you still have no tax liability. But you do have a reporting obligation. When the gift-giver files their taxes, they should report the excess over $16K that they've gifted to each person in that tax year. So if I gifted one person $12K and another person $20K in 2022, I would report the $4K taxable gift on Form 709, but I would probably not owe any tax. The excess over the annual threshold counts toward your _lifetime gift tax exemption_. The lifetime exemption is $12.06 million in 2022. Like the annual exemption of $16K, it's indexed to inflation and can change each year.
@@ -133,10 +143,6 @@ As you might expect, 401(k) contributions can apply only to the current year: co
 In contrast to 401(k) contributions, IRA and HSA contributions can be delayed until tax day of the following year (roughly April 15). This allows you to assess the tax consequences of traditional IRA contribution or whether you're eligible for direct Roth IRA contribution. If there is any uncertainty about whether your MAGI could make you ineligible for Roth IRA contributions, either perform a backdoor contribution or wait until the year is over. If it's uncertain whether traditional IRA contributions will be tax-deductible, you can (a) wait until the year is over, (b) perform a Roth conversion later if needed, or (c) accept that the contribution is non-deductible (which I don't recommend). When you contribute to an IRA, your broker will ask you to characterize the contribution: you will mark it as (a) for the current year, (b) for the previous year, or (c) from a rollover, most commonly from a 401(k).
 
 The delay for your HSA provides more time for you to make contributions for the previous tax year, with greater information about whether your maximum for that tax year should be [reduced](https://github.com/investindex/TaxAdv#contribution-limits). However, even by April 15, you may not be certain whether you can use the [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/).
-
-<!--
-#### Mega backdoor Roth
--->
 
 #### Saver's credit
 
@@ -353,7 +359,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Let's say a married couple who owns an expensive home is considering whether to itemize deductions or take the standard deduction of $25,900. They paid a lot in state and local income and property tax, so they can [deduct](https://www.thebalancemoney.com/property-tax-deduction-3192847) the maximum of $10,000 from their federal taxable income. They recently bought their home and pay a great deal of mortgage interest. Let's say they paid $25,000 of [deductible mortgage interest](https://www.investopedia.com/terms/home-mortgage-interest.asp). And let's say they donated $2,000 to charity. They choose to itemize because they can deduct $37,000 instead of $25,900. [↩](#fn2)
+<sup id="f2"> 2 </sup> Let's say a married couple who owns an expensive home is considering whether to itemize deductions or take the standard deduction of $25,900. They paid a lot in state and local income and property tax, so they can [deduct](https://www.thebalancemoney.com/property-tax-deduction-3192847) the maximum of $10,000 from their federal taxable income (see the SALT deduction). They recently bought their home and pay a great deal of mortgage interest. Let's say they paid $25,000 of [deductible mortgage interest](https://www.investopedia.com/terms/home-mortgage-interest.asp). And let's say they donated $2,000 to charity. They choose to itemize because they can deduct $37,000 instead of $25,900. [↩](#fn2)
 
 &nbsp;
 
