@@ -91,7 +91,7 @@ For those who generally take the standard deduction, it helps to cluster your do
 
 Most large charities accept securities as well as cash. If you own shares that have appreciated, you can avoid paying any tax on the gains and take a deduction by donating the shares to a charity or your DAF.
 
-It makes sense to contribute to a DAF only if your entire donation, or a vast majority, is tax-deductible. Otherwise the 0.6% annual fees charged by Fidelity, Schwab, and Vanguard would consume more money than you can save through tax-exempt investing. A little math shows that even if your entire donation is deductible, the fees are so high that you're likely better off continuing to invest that money in a tax-efficient stock ETF. Before eventually donating the shares, you would pay tax only on dividends, which would largely be taxed as long-term capital gains. Sadly, the fees make using a DAF impractical for nearly all potential users.
+It makes sense to contribute to a DAF only if your entire donation, or a vast majority, is tax-deductible. Otherwise the 0.6% annual fees charged by Fidelity, Schwab, and Vanguard would consume more money than you can save through tax-exempt investing. A little math shows that even if your entire donation is deductible, the fees are so high that you're likely better off continuing to invest that money in a tax-efficient stock ETF. Before eventually donating the shares, you would pay tax only on dividends, which would largely be taxed as long-term capital gains. Sadly, the fees make a DAF counterproductive for nearly all potential users.
 
 More information on charity and tax-advantaged accounts was given in a [previous section](https://github.com/investindex/TaxAdv#charity).
 
