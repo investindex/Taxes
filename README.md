@@ -369,7 +369,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Let's say a married couple who owns an expensive home is considering whether to itemize deductions or take the standard deduction of $25,900. They paid a lot in state and local income and property tax, so they can [deduct](https://www.thebalancemoney.com/property-tax-deduction-3192847) the maximum of $10,000 from their federal taxable income (see the SALT deduction). They recently bought their home and pay a great deal of mortgage interest. Let's say they paid $25,000 of [deductible mortgage interest](https://www.investopedia.com/terms/home-mortgage-interest.asp). And let's say they donated $2,000 to charity. They choose to itemize because they can deduct $37,000 instead of $25,900. [↩](#fn2)
+<sup id="f2"> 2 </sup> Let's say a married couple who owns an expensive home is considering whether to itemize deductions or take the standard deduction of $25,900. They paid a lot in state and local income and property tax, so they can [deduct](https://www.thebalancemoney.com/property-tax-deduction-3192847) the maximum of $10,000 from their federal taxable income (see the SALT deduction). They recently bought their home and pay a great deal of mortgage interest. Let's say they paid $25,000 of [deductible mortgage interest](https://www.investopedia.com/terms/home-mortgage-interest.asp). And let's say they donated $2,000 to charity. They choose to itemize because they can deduct $37,000 instead of $25,900. Medical expenses above a high threshold determined by your AGI can also be used as an itemized deduction. [↩](#fn2)
 
 &nbsp;
 
