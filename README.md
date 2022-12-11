@@ -85,7 +85,7 @@ Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-ta
 
 #### Charity
 
-The government doesn't make it terribly easy to receive appropriate tax deductions for charitable donations. As discussed above, those taking the standard deduction in 2022 get zero points with Uncle Sam for charitable donations. A single filer who donated $5,000 might still take the standard deduction because their itemized deductions were less than $12,950. This generous donor would receive the same deduction as a similar person who donated nothing.
+The government doesn't make it terribly easy to receive appropriate tax deductions for charitable donations. Those taking the standard deduction in 2022 get zero points with Uncle Sam for charitable donations. A single filer who donated $5,000 might still take the standard deduction because their itemized deductions were less than $12,950. This generous donor would receive the same deduction as a similar person who donated nothing.
 
 How can we get the IRS to recognize our donations? The simplest way is to be someone who itemizes their deductions. An example of how itemized deductions can exceed the standard deduction is given in the [second footnote](https://github.com/investindex/Taxes#f2). Because that married couple has itemized deductions that exceed the standard deduction before they make donations, they get deductions for every dollar donated.
 
