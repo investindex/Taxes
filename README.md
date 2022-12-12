@@ -1,6 +1,6 @@
 # Taxes
 
-Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the taxes you pay. Diversification is often called the only free lunch in investing, but using tax knowledge to increase your after-tax returns is something close to a free lunch, because you don't have to compete with anyone else for the substantial increase in gains provided by minimizing taxes.
+Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the tax you pay. Diversification is often called the only free lunch in investing, but using tax knowledge to increase your after-tax returns is something close to a free lunch, because you don't have to compete with anyone else for the increase in gains provided by minimizing taxes.
 
 Even if you pay someone to do your tax return, you need to understand the principles detailed below. There are mistakes and suboptimal actions that your accountant cannot fix retroactively. Overcontributing to your IRA or triggering wash sales you didn't intend can lead to needless stress, paperwork, and potential tax penalties (or money otherwise lost). But taxes don't need to be intimidating! They can be straightforward if you equip yourself with basic knowledge and plan ahead.
 
