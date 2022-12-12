@@ -16,6 +16,7 @@ Click to skip to each section:
 * [Wash sale rules](https://github.com/investindex/Taxes#wash-sale-rules)
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
 * [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
+* [Summary](https://github.com/investindex/Taxes#summary)
 
 &nbsp;
 
@@ -115,6 +116,7 @@ Here are links to the rest of the sections:
 * [Wash sale rules](https://github.com/investindex/Taxes#wash-sale-rules)
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting)
 * [Estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments)
+* [Summary](https://github.com/investindex/Taxes#summary)
 
 &nbsp;
 
@@ -328,13 +330,35 @@ Hopefully you've noticed that when you receive a paycheck, some of your money is
 
 Under what circumstances do you need to pay estimated tax? Thankfully, taxpayers can often safely ignore this provision. You do not need to make estimated payments if (a) you expect your federal withholding to be at least 90% of the total federal tax you owe; (b) you expect your federal withholding to be at least 100% of the tax you paid the prior year; or (c) the underpayment you anticipate will be less than $1,000. If any one of these statements is true, you do not need to make estimated payments. The figure in condition (b) is increased to 110% at an [AGI](https://www.nerdwallet.com/article/taxes/adjusted-gross-income-agi) threshold of $150K.
 
-If you find that you do need to pay estimated tax, how do you do it? The simplest method is to increase federal withholding through your employer. You'll effortlessly pay the correct amount of taxes, as long as you accurately estimate your total tax liability. The main alternative is a series of four, equal payments throughout the year. These are due by the 15th days of April, June, September, and January (in the following year). If you noticed that these dates are not spaced equally, that’s correct. When these dates fall on a Saturday, Sunday, or legal holiday, then the due date is postponed to the first day that is not that kind of day. There are [multiple ways](https://www.irs.gov/payments) to pay the IRS, the easiest of which is an online transfer directly from your checking account.
+If you find that you do need to pay estimated tax, how do you do it? The simplest method is to increase federal withholding through your employer. You'll effortlessly pay the correct amount of taxes, as long as you accurately estimate your total tax liability. The main alternative is a series of four, equal payments throughout the year. These are due by the 15th days of April, June, September, and January (in the following year). If you noticed that these dates are not spaced equally, that’s correct. When these dates don't fall on a business day, then the due date is postponed to the first business day afterward. There are [multiple ways](https://www.irs.gov/payments) to pay the IRS, the easiest of which is an online transfer directly from your checking account.
 
 There's more information on estimated payments in [IRS publication 505](https://www.irs.gov/publications/p505). It's not as bad as it sounds. They even made a flowchart [here](https://www.irs.gov/publications/p505#en_US_2022_publink1000194559).
 
-The practice of "estimated tax" may strike some people as guesswork. How can you be sure you're paying enough before the end of the year? Remember that condition (b) above sets a hard limit on the amount you're expected to pay before tax day. You're all set as long as you pay the IRS as much as you paid in federal taxes the prior year — or, if your income is high, 110% of what you paid the prior year. If your tax liability has decreased compared to the prior year, following only this guideline could lead to significant overpayment, so keep the other conditions in mind.
+The practice of "estimated tax" may strike some people as guesswork. How can you be sure you're paying enough before the end of the year? Remember that condition (b) above sets a hard limit on the amount you're expected to pay before tax day. You're all set as long as you pay the IRS as much as you paid in federal taxes the prior year — or, if your income is high, 110% of what you paid the prior year. This is known as the "safe harbor" rule. If your tax liability has decreased compared to the prior year, following only this guideline could lead to significant overpayment, so keep the other conditions in mind.
 
-Some states require estimated tax payments under certain conditions; research the requirements of your state(s).
+States often require estimated tax payments under certain conditions; research the requirements of your state(s).
+
+&nbsp;
+
+&nbsp;
+
+## Summary
+
+* Understand the basics: marginal vs. effective tax rate; return vs. refund; filing status; dependent; credit vs. deduction; refundable vs. non-refundable credit.
+
+* Understand the essentials: gross income, AGI, and MAGI; standard deduction vs. itemized deductions; long-term vs. short-term gains and losses; FICA taxes; FIFO disposal method; qualified dividend; gift tax exemption.
+
+* Understand the income restrictions (based on MAGI) that apply to traditional and Roth IRAs, and the appropriate timing for contributions to tax-advantaged accounts. The saver's credit is a major tax credit for low-income people who contribute to retirement accounts.
+
+* The properly balanced use of Roth and traditional retirement accounts will distribute payment of income tax from your earning years to your non-earning years, but not by so much that you pay higher taxes during non-earning years. There are a number of factors to consider each year when deciding whether to contribute 100% to Roth accounts, 100% to traditional accounts, or some combination.
+
+* The most important aspect of tax-efficient investing is to contribute as much as possible to tax-advantaged accounts as early in life as possible. Secondarily, you should hold investments for as long as possible to defer any tax; you should prefer to realize long-term gains over short-term gains; you should prefer funds with qualified dividends to those with non-qualified dividends; you should prefer funds with no capital gains distributions; and, all else equal, you should prefer funds with lower yield in taxable accounts because distributions are tax-inefficient. The benefits of asset location can be exaggerated, but there are some low-hanging fruit like locating REIT funds in tax-advantaged accounts. There is a minor tax incentive to split global funds with more than 50% US allocation into US and international funds.
+
+* A wash sale occurs if a position sold at a loss is replaced within the 61-day window starting 30 days before and ending 30 days after the sale. The loss is deferred for tax purposes, and the magnitude of the realized loss is added to the cost basis of the new position. You need to be especially careful of accidentally triggering wash sales by purchasing shares of the same fund in your IRA or HSA, because in that case the loss is permanently disallowed, not simply deferred.
+
+* Tax loss harvesting is the conscious use of realized losses to offset realized gains for tax purposes. It can be beneficial but — in contrast to the illusion many people have about canceling taxable gains — it merely defers realization of gains. So it needs to be done carefully. Avoiding a wash sale is an essential part of proper tax loss harvesting.
+
+* You may need to make estimated tax payments if your employer withholding will fail to meet your total tax liability. However, there are various exceptions, most notably the "safe harbor" rule based on your tax liability in the prior year.
 
 &nbsp;
 
