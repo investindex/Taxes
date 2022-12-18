@@ -358,7 +358,7 @@ States often require estimated tax payments under certain conditions; research t
 
 * [Tax loss harvesting](https://github.com/investindex/Taxes#tax-loss-harvesting) is the conscious use of realized losses to offset realized gains for tax purposes. It can be beneficial but — in contrast to the illusion many people have about making taxable gains vanish — it merely defers realization of gains. Deferring gains is often great, but it's not always the right decision. Avoiding a wash sale is an essential part of proper tax loss harvesting.
 
-* You may need to make [estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments) if your employer withholding will fail to meet your total tax liability (or if you're self-employed). However, there are various exceptions, most notably the "safe harbor" rule based on your tax liability in the prior year.
+* You may need to make [estimated tax payments](https://github.com/investindex/Taxes#estimated-tax-payments) if your employer withholding will fail to meet your total tax liability (or if you're self-employed). There are various exceptions, most notably the "safe harbor" rule based on your tax liability in the prior year.
 
 &nbsp;
 
