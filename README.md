@@ -160,6 +160,8 @@ The retirement savings contributions credit — commonly called the saver's cred
 
 Recall the distinction between refundable and nonrefundable tax credits, as introduced in [the basics](https://github.com/investindex/Taxes#the-basics). The saver's credit is nonrefundable, which means that it can lower your ordinary income tax liability to zero, but cannot reduce it further. The single filer with an AGI of $20,000 — assuming the whole amount is earned income — would owe [$705](https://www.wolframalpha.com/input?i=%2820000-12950%29*.1) in federal income tax. So the saver's credit would be 50% of their IRA contribution for any contribution up to $1,410, but the credit could not exceed $705 (and regardless of circumstances, the credit cannot exceed $1,000). Even though they paid [$1,530](https://www.wolframalpha.com/input?i=20000*.0765) in FICA taxes, income tax credits have no effect on this liability.
 
+Beginning in 2027, the saver's credit will become a [saver's match](https://www.kiplinger.com/taxes/savers-credit-converted-to-savers-match), in which the government will provide a 50% matching contribution for up to $2,000 of contributions. The matching contribution won't count toward the annual contribution limit.
+
 &nbsp;
 
 &nbsp;
