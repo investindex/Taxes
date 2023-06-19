@@ -86,6 +86,8 @@ Unrealized gains do not apply to taxes: if you buy shares but have not sold any,
 
 Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-tax-breaks) for the most common tax credits.
 
+In the [Guidelines](https://github.com/investindex/Guidelines) section, the discussion of emergency funds explains how different types of bonds are taxed, and the discussion of renting vs. buying briefly explains how a sale of your primary residence is taxed.
+
 #### Charity
 
 The government doesn't make it terribly easy to receive appropriate tax deductions for charitable donations. Those taking the standard deduction in 2022 get zero points with Uncle Sam for charitable donations. A single filer who donated $5,000 might still take the standard deduction because their itemized deductions were less than $12,950. This generous donor would receive the same deduction as a similar person who donated nothing.
