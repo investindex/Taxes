@@ -51,7 +51,7 @@ A central concept is the distinction between short- and long-term capital gains.
 The plot below shows the marginal tax rates for single filers in the 2023 tax year. As you can see, most investors are taxed at a marginal rate of 15% for long-term capital gains but a higher rate for ordinary income. Joint filers have thresholds that are exactly double those of single filers at the low end. However, the thresholds at the high end are less advantageous for married couples — they're pushed into the 20% marginal rate with lower incomes per person.<sup id="fn3">[[3]](#f3)</sup> You can see all rates for ordinary income and capital gains [here](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets) and [here](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates).
 
 <p align="center">
-<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20Tax%20Rates%20Single.png"/>
+<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20Tax%20Rates%20Single.png" width="576" height="493"/>
 </p>
 
 <!-- Note to author: original size was width="864" height="740" -->
