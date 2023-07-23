@@ -92,7 +92,7 @@ Bond funds regularly pay dividends, but these are different than the dividends y
 
 Unrealized gains do not apply to taxes: if you buy shares but have not sold any, the gain or loss is not taxable until the shares are sold and it becomes a realized gain or loss. As stated previously, capital gains distributions from mutual funds make their tax burden higher and more complicated than the tax burdens arising from stocks and stock ETFs. Because stock ETFs do not need to distribute capital gains, they should be favored over mutual funds in taxable accounts. Stocks and stock ETFs still have involuntary taxable events when dividend payments occur.
 
-If your income reaches multiple hundreds of thousands of dollars in any year, read up on the [alternative minimum tax](https://www.schwab.com/learn/story/beware-these-amt-triggers) (AMT), which may increase your federal tax liability (and state tax liability, if your state has an AMT.
+If your income reaches multiple hundreds of thousands of dollars in any year, read up on the [alternative minimum tax](https://www.schwab.com/learn/story/beware-these-amt-triggers) (AMT), which may increase your federal tax liability (and state tax liability, if your state has an AMT).
 
 Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-tax-breaks) for the most common tax credits.
 
