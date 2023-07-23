@@ -421,13 +421,13 @@ However, we can imagine an imbalanced pair in which Spouse A makes $100K and Spo
 
 The marriage penalty for high earners is even more obvious in thresholds for [long-term capital gains](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates) ($492,300 vs. $553,850 for the 20% threshold), the net investment income tax ($200K vs. $250K), the additional Medicare tax ($200K vs. $250K), the phasing out of deductions for traditional IRA contributions ($83K vs. $136K), and the phasing out of eligibility for direct Roth IRA contributions ($153K vs. $228K). All of these thresholds are mentioned above. In addition, interest on [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) is tax-deductible if used for education, but the deduction is [phased out](https://www.treasurydirect.gov/indiv/planning/plan_education.htm) at higher MAGI ($100,800 vs. $158,650 in the 2022 tax year).
 
-Big caveat: all the calculations above assumed the standard deduction, which high earners are less likely to take. For those itemizing deductions, the SALT deduction can favor a pair of single people over a married couple, because a married couple is limited to a $10K SALT deduction, whereas each single person has their own $10K cap.
+Big caveat: all the calculations above assumed the standard deduction, which high earners are less likely to take. For those itemizing deductions, the SALT deduction can favor a pair of single people over a married couple, because a married couple is limited to a $10K SALT deduction, whereas each single person has their own $10K cap. If this is combined with another significant itemized deduction — usually for mortgage interest, charitable donations, or medical expenses — and their incomes are not wildly different, a high-income married couple could easily find themselves penalized when itemizing as well.
 
 The poorly coordinated dynamics of government welfare programs can also create [marriage penalties for low-income Americans](https://ifstudies.org/blog/how-tangled-welfare-programs-create-a-marriage-penalty-for-the-near-poor). [↩](#fn3)
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> There is a funny region of $100 of taxable income in which the marginal rate for ordinary income is _lower_ than the marginal rate for long-term capital gains. You can see it in the second image. The 0% capital gains rate increases to 15% above $44,625. Someone with a taxable income of $44,700 pays a marginal rate of 15% on capital gains but a marginal rate of only 12% on ordinary income! The threshold for the 22% rate is $44,725 for ordinary income. [↩](#fn4)
+<sup id="f4"> 4 </sup> There is a funny region of $100 of taxable income in which the marginal rate for ordinary income is _lower_ than the marginal rate for long-term capital gains. The 0% capital gains rate increases to 15% above $44,625. Someone with a taxable income of $44,700 pays a marginal rate of 15% on capital gains but a marginal rate of only 12% on ordinary income! The threshold for the 22% rate is $44,725 for ordinary income. [↩](#fn4)
 
 
 &nbsp;
