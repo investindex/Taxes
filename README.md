@@ -96,7 +96,7 @@ If your income reaches multiple hundreds of thousands of dollars in any year, re
 
 Check out [this link](https://www.nerdwallet.com/article/taxes/tax-deductions-tax-breaks) for the most common tax credits.
 
-In the [Guidelines](https://github.com/investindex/Guidelines) section, the discussion of emergency funds explains how different types of bonds are taxed, and the discussion of renting vs. buying briefly explains how a sale of your primary residence is taxed.
+In the [Guidelines](https://github.com/investindex/Guidelines) section, the discussion of emergency funds explains how different types of bonds are taxed, and the discussion of renting vs. buying briefly explains how a sale of your primary residence is taxed. The section on [Risk](https://github.com/investindex/Risk#municipal-bonds) has additional resources on the taxation of municipal bonds.
 
 #### Charity
 
