@@ -435,7 +435,7 @@ The poorly coordinated dynamics of government welfare programs can also create [
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> There is a funny region of $100 of taxable income in which the marginal rate for ordinary income is _lower_ than the marginal rate for long-term capital gains. The 0% capital gains rate increases to 15% above $44,625. Someone with a taxable income of $44,700 pays a marginal rate of 15% on capital gains but a marginal rate of only 12% on ordinary income! The threshold for the 22% rate is $44,725 for ordinary income. [↩](#fn4)
+<sup id="f4"> 4 </sup> There is a funny region of $125 of taxable income in which the marginal rate for ordinary income is _lower_ than the marginal rate for long-term capital gains. The 0% capital gains rate increases to 15% above $47,025 for single filers. Someone with a taxable income of $47,100 pays a marginal rate of 15% on capital gains but a marginal rate of only 12% on ordinary income! The threshold for the 22% rate is $47,150 for ordinary income. [↩](#fn4)
 
 
 &nbsp;
