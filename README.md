@@ -51,7 +51,7 @@ A central concept is the distinction between short- and long-term capital gains.
 The plot below shows the marginal tax rates for single filers in the 2024 tax year. As you can see, most investors are taxed at a marginal rate of 15% for long-term capital gains but a higher rate for ordinary income. Joint filers have thresholds that are exactly double those of single filers at the low end, as one would expect. However, the thresholds at the high end are disadvantageous for married couples. Joint filers enter the top marginal rate for ordinary income at a threshold only 20% higher than the single filer threshold. The marriage penalty is even greater for capital gains: joint filers enter the top marginal rate at a threshold only 12.5% higher than that of single filers.<sup id="fn3">[[3]](#f3)</sup> You can see all rates for ordinary income and capital gains [here](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets) and [here](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates).
 
 <p align="center">
-<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20tax%20rates%202024.png" width="631" height="540"/>
+<img src="https://github.com/investindex/Taxes/blob/main/Marginal%20tax%20rates%202024.png" width="757" height="648"/>
 </p>
 
 <!-- Note to author: original size was width="1262" height="1080" -->
