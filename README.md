@@ -4,7 +4,7 @@ Tax awareness is important not only because of your legal obligation to file tax
 
 Even if you pay someone to do your tax return, you need to understand the principles detailed below. There are mistakes and suboptimal actions that your accountant cannot fix retroactively. Overcontributing to your IRA or triggering wash sales you didn't intend can lead to needless stress, paperwork, and potential tax penalties (or money otherwise lost). But taxes don't need to be intimidating! They can be straightforward if you equip yourself with basic knowledge and plan ahead.
 
-The information below is general and tax law is very particular. Somewhat different rules apply to you if you derive most of your income from farming or fishing. People with permanent disabilities receive very different tax treatment — these are just two examples. Understanding your own situation is important. If your circumstances might be unusual, research whether they have tax implications.
+The information below is general and tax law is very particular. Somewhat different rules apply to you if you derive most of your income from farming or fishing. People with permanent disabilities receive very different tax treatment — these are just two examples. Understanding your own situation is important. If your circumstances might be unusual — even as mildly unusual as having student loans — research whether they have tax implications.
 
 Click to skip to each section:
 
