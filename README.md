@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Taxes
 
 Tax awareness is important not only because of your legal obligation to file taxes correctly, but also because planning ahead can increase your returns by reducing the tax you pay. Diversification is often called the only free lunch in investing, but using tax knowledge to increase your after-tax returns is something close to a free lunch, because you don't have to compete with anyone else for the increase in gains provided by minimizing taxes.
